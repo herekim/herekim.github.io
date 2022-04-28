@@ -37,6 +37,7 @@ const Seo = ({ description, lang, meta, title }) => {
       }}
       title={title}
       titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      link={[{ rel: "icon", type: "image/png", href: "favicon.ico" }]}
       meta={[
         {
           name: `description`,
