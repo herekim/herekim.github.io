@@ -25,9 +25,18 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <p className="footer-built">
+          © alwayshere Built with
+          <span style={{ marginLeft: "4px" }}>
+            <a
+              style={{ color: "#808080" }}
+              href="https://www.gatsbyjs.com"
+              target="_blank"
+            >
+              Gatsby
+            </a>
+          </span>
+        </p>
       </footer>
     </div>
   )

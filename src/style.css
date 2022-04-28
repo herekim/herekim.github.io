@@ -1,4 +1,5 @@
 /* CSS Custom Properties Definitions */
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css");
 
 :root {
   --maxWidth-none: "none";
@@ -27,11 +28,12 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: Montserrat, system-ui, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
-    Times, serif;
+  --fontFamily-sans: "Pretendard Variable", -apple-system, Montserrat, system-ui,
+    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
+  --fontFamily-serif: "Pretendard Variable", -apple-system, "Merriweather",
+    "Georgia", Cambria, "Times New Roman", Times, serif;
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
@@ -54,7 +56,7 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: #f4a460;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -84,7 +86,7 @@ body {
 }
 
 footer {
-  padding: var(--spacing-6) var(--spacing-0);
+  padding: var(--spacing-6) var(--spacing-0) 0 var(--spacing-0);
 }
 
 hr {
@@ -94,7 +96,6 @@ hr {
 }
 
 /* Heading */
-
 h1,
 h2,
 h3,
@@ -228,7 +229,6 @@ table thead tr th {
 }
 
 /* Link */
-
 a {
   color: var(--color-primary);
 }
@@ -239,7 +239,6 @@ a:focus {
 }
 
 /* Custom classes */
-
 .global-wrapper {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
@@ -288,6 +287,7 @@ a:focus {
 
 .bio {
   display: flex;
+  align-items: center;
   margin-bottom: var(--spacing-16);
 }
 
@@ -317,6 +317,15 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+.footer-built {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-size: var(--fontSize-0);
+  color: #808080;
 }
 
 /* Media queries */

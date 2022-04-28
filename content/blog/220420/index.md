@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: 새로 시작하는 사람들을 위하여
+date: "2022-04-20T22:40:32.169Z"
+description: 무언가를 새로 시작하는 사람들을 위한 참고서
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

@@ -1,6 +1,7 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: 잘해보자고요
+date: "2022-04-23T23:46:37.121Z"
+description: "작은 성취감의 언덕"
 ---
 
 Wow! I love blogging so much already.

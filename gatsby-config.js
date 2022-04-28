@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `alwayshere`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `김희열`,
+      summary: `내가 생각하는 어떤 것`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `개인블로그`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
@@ -121,7 +121,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/spain.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,

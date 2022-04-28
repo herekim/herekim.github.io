@@ -28,7 +28,7 @@ const Seo = ({ description, lang, meta, title }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const defaultTitle = site.siteMetadata?.title
+  // const defaultTitle = site.siteMetadata?.title
 
   return (
     <Helmet
@@ -36,7 +36,8 @@ const Seo = ({ description, lang, meta, title }) => {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      // titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      link={[{ rel: "icon", type: "image/png", href: "favicon.ico" }]}
       meta={[
         {
           name: `description`,
