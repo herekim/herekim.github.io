@@ -6,10 +6,10 @@ module.exports = {
       summary: `내가 생각하는 어떤 것`,
     },
     description: `개인블로그`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    siteUrl: `https://herekim.github.io/alwayshere/`,
+    // social: {
+    //   twitter: `kylemathews`,
+    // },
   },
   plugins: [
     `gatsby-plugin-image`,

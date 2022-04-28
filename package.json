@@ -25,6 +25,7 @@
     "gatsby-source-filesystem": "^4.13.0",
     "gatsby-transformer-remark": "^5.13.0",
     "gatsby-transformer-sharp": "^4.13.0",
+    "gh-pages": "^3.2.3",
     "prismjs": "^1.28.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -46,6 +47,7 @@
   },
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
