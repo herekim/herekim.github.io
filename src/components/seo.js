@@ -6,6 +6,7 @@
  */
 
 import * as React from "react"
+
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
@@ -35,8 +36,12 @@ const Seo = ({ description, lang, meta, title }) => {
       htmlAttributes={{
         lang,
       }}
-      title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      title={
+        window.location.pathname === "/"
+          ? `${title}`
+          : `${title} | ${defaultTitle}`
+      }
+      titleTemplate={defaultTitle ? `%s` : null}
       link={[{ rel: "icon", type: "image/png", href: "favicon.ico" }]}
       meta={[
         {
