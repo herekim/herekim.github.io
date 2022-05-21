@@ -1,7 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 21 May 2022 05:36:40 GMT</lastBuildDate><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 21 May 2022 06:48:11 GMT</lastBuildDate><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
 &lt;p&gt;어느덧 개발자라는 이름을 달게 된지도 1년이 되어가고 있다. 그동안 정말 많은 일이 있었고, 지금 생각해보면 이렇게 무모할 수 있었나 싶은 일들도, 다시는 겪고 싶지 않은 일들도, 목표를 달성하고 눈물날만큼 행복했던 순간도 있었다. 여전히 실력이 부족하지만 조금 머리가 컸다고 개발자로서 성장해 나가야 할 방향성, 긍정적인 조직 문화에 대한 나만의 기준이 생기기 시작했다. 그리고 자연스럽게 형성되는 이 기준들이 싫지 않다.&lt;/p&gt;
 &lt;p&gt;맨땅에서 맨땅으로, 1년 간 두 회사를 경험했고 두 회사 모두 유일한 프론트엔드 개발자로 입사했다. 누군가는 개발을 배운지 고작 3개월 밖에 안된 사람이 그게 가능하냐고, 입사는 고사하고 그 환경에서 좋은 성장이 가능하냐고 묻겠지만, 가능하게 하고싶었다. 그리고 할 수 있을 것만 같았다.&lt;/p&gt;
 &lt;p&gt;첫번째 회사에 최종 합격한 뒤, 한 멘토님께 이와 관련한 질문을 드린 적이 있었다. 멘토님의 대답은 “한번 해보시는걸 추천드려요. 돌아가는 길일 수 있지만 얻는 것은 분명 있을 거예요.”였다. “돌아가는 길”과 “얻는 것”. 그때는 몰랐지만 지금은 알게된 무엇이다. 이 글에서는 그 결론에 도달하게된 지난 1년 간의 과정을 회고해보려고 한다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/78c5c90711c25d1e1c4c86ecfa3f1498/6937a/ground.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 81.0126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB5ElEQVQoz2P4TwFggLOOHDl99MiZ//////nzh1jN//79+////79//+Ljit1cYn7++AnhEmszROmTJ8+3bz144+b9i5dvEqkf6myI0j///21Ztn7rvJWkav7////fj5/+b5x/Y3b75XMXPhCjH6r571+Q4ssX/+fG306JnzZ18iuw4D8SbH7/9n9+we7I2PZ5s97Dbf7379/v378JRNWfPyDbG+r6LU1jNi4/B7YZJPLr589v377+//8PYdz/f5iaQdFbW9GhKGm4Y9suuHE/fv759Qeq+sePHxAT0fz8F+K2ZYvXaSnZHD96FmTnr1////9/9/Ty86ur3z+//uvX35+//v749fPLrx/oNn//9v3q1Vvz566wNvE+c+oCyMQ/IBv/3O56fzDy1aHM16frvj4/++zL58MPrkK8AE0kmzbubqjvtzALcLQJtrf09/dJqqvrmzhhQXZa6bGVufsXph1YnHFuVdSVQwt2Xbj8/MNbqGZIfNRW96ipOFiYBVhahFuah5sYB2uoOWmpO+vruJubBZiZBlqYBTjbB3u4RefmNt66dR8SkdC0/fXr93PnrqxZvW3OnNUTJ8yfMGHB1CmLFi1cu3PXodu3H1y7euvUqQtXrt65d+/x1y9fsSdPIgFcLQBt1U4kpmYPyQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ground&quot;
+        title=&quot;ground&quot;
+        src=&quot;/static/78c5c90711c25d1e1c4c86ecfa3f1498/f058b/ground.png&quot;
+        srcset=&quot;/static/78c5c90711c25d1e1c4c86ecfa3f1498/c26ae/ground.png 158w,
+/static/78c5c90711c25d1e1c4c86ecfa3f1498/6bdcf/ground.png 315w,
+/static/78c5c90711c25d1e1c4c86ecfa3f1498/f058b/ground.png 630w,
+/static/78c5c90711c25d1e1c4c86ecfa3f1498/40601/ground.png 945w,
+/static/78c5c90711c25d1e1c4c86ecfa3f1498/6937a/ground.png 1094w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h1&gt;첫번째 맨땅&lt;/h1&gt;
 &lt;h2&gt;3개월만에 개발자 되다&lt;/h2&gt;
 &lt;p&gt;운이 좋았다고 밖에 설명할 길이 없다. 3개월의 부트캠프 과정 중 마지막 한달을 가치소비 플랫폼 스타트업에서 인턴으로 보냈다. 이제 막 광고 에이전시에서 가치소비 플랫폼 스타트업으로 전환해 프로젝트 초읽기에 들어간 회사였고, 놀랍게도 내가 첫 정규직 개발자였다! 인턴 기간에 며칠을 자정이 넘어서까지 회사에 머물며 만든 프로토타입으로 회사는 Pre-A 시리즈 투자를 받게 되었고, 부족한 것도 너무나 많았지만 그때 당시에는 정말 짜릿했던 경험이었다.&lt;/p&gt;
@@ -75,6 +107,38 @@
 &lt;p&gt;그리고 이 과정은 여전히 진행 중이다. 소폭의 진전은 있지만 여전히 큰 변화는 없다. 아니 어쩌면 있을 수 없다는 표현이 맞을지도 모르겠다. 생각해보면 나는 이 조직에 들어온 지 2달 밖에 안된 신입이고, 내 뚜렷한 주장이 기존 조직원들에겐 당황스러울 수 있으니까. 나에게는 넌센스한 상황이 반복되면서 동기 부여를 잃은 것도, 처음 생각했던 “기술적으로 성장하는 조직, 팀으로 함께 성장하는 조직”에 속하는 것을 당장은 포기하게 된 것도 맞지만 지금은 내 선택에 책임을 지고 최선을 다하고 싶다는 생각을 하고 있다.&lt;/p&gt;
 &lt;h1&gt;돌아가는 길에서 얻은 작고 소중한 것들&lt;/h1&gt;
 &lt;p&gt;1년 간 수 많은 곁길을 돌아왔다. 아직 목적지에 다다르기 전이기만 어느 길이 나에게 맞는 길인지는 이제 조금 보인다. 그리고 그 길을 향해 피치를 올리며 달려가고 있다고 느낀다. 곁길에서 얻은 무엇들은 당장의 실효성이 없을 수 있다. 하지만 분명한 족적이 있는 이상 지금은 체감하지 못하지만 명료하게 존재하는 성장도 있을 거라고 생각한다. 이것들은 미래의 내가 잘 포장된 도로를 걷다가 곁길을 통하지 않으면 방법이 없을 때, “아, 그때 이런 방법이 있었지.” 하며 떠오를 수 있을 무언가일 것이다. 그렇게 몸소 생채기를 겪으며 얻어낸 나만의 그 어떤 기준들을 몇가지 정리해보았다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5f649811fb922b055dd9c2de3e6dfdaf/12bff/road.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 89.24050632911393%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAAsTAAALEwEAmpwYAAABkUlEQVQ4y6WUv0vDQBTH+791cBc3B2cXN1FRKELFwaWIf4Ci6CBKNQ5Fi4stxbTYFqwQENG7y49akmuTNGmau4skMSUNtVZ8Q0Leu899v5f3kpT3j0glE/wzEd5dz/PY7DAL1mKdLe92HqqS2jF0nTH2F2VC+y+vUJYlSUIIaZr2N9vdvgkhkIKQZZkQMitMKW0rCkJIFMVQHGMcX5A4SFJZVVUIoSiKCCEAwHTnSdgwDAAAhFBRFIwxpXRUGtjWHVdwYwdJwpRSjLFtW+Nu/Wuv52ytHmOsjfyn4hilfqrd/jw9ud/PnR0dnkelII/wymJGVpQJcMRTxhjHFTc39rYzOe666HfQ9a22qs35uSUVd5PwwHEE4W0ne1CpPIW1Rr3FPzYcZ+h5nhvAlxc36fRC2LxvOLzxfKNcquXztxj3wu1Ms6/rpi9LyHDoz+tVvrC+lkVQTCqHD+VSzbKseFdJFIyxeq0JPqDQEibDmtYNfTLG6HgQQmx7wKL44auKXtvEqfhlwuIbTycnK8/+M/gCyDUKHh30hJAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;road&quot;
+        title=&quot;road&quot;
+        src=&quot;/static/5f649811fb922b055dd9c2de3e6dfdaf/f058b/road.png&quot;
+        srcset=&quot;/static/5f649811fb922b055dd9c2de3e6dfdaf/c26ae/road.png 158w,
+/static/5f649811fb922b055dd9c2de3e6dfdaf/6bdcf/road.png 315w,
+/static/5f649811fb922b055dd9c2de3e6dfdaf/f058b/road.png 630w,
+/static/5f649811fb922b055dd9c2de3e6dfdaf/40601/road.png 945w,
+/static/5f649811fb922b055dd9c2de3e6dfdaf/12bff/road.png 1032w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;같이의 가치&lt;/h2&gt;
 &lt;p&gt;한때 “혼자서도 할 수 있지”라는 다소 오만한 생각을 한 적이 있었다. 어떤 문제가 발생했을 때 부딪히고 깨지며 해낼 수는 있다. 어떻게든 방법은 있을 것이다. 하지만 혼자가면 빠르게 갈 수 있지만 같이 가면 멀리갈 수 있다는 말이 있듯이 빠르게 가기 때문에 놓치는 것들은 혼자서는 얻어낼 수 없는 무엇들이다.&lt;/p&gt;
 &lt;p&gt;개발자로 시각을 좁혀보면, 내가 생각한 방식이 아닌 다른 방식으로 문제를 풀어나가는 동료들을 보며 서로에게 자극과 배움을 주고 받는 역할을 할 수가 있다. 가볍거나 깊은 기술적인 논의를 하면서 공동의 문제를 풀고자 함께 노력할 땐, 그 자체만으로 혼자 머릿 속으로 끙끙대며 고민하는 것과는 결이 다른 기술적 성장을 가져다 줄 것이라 본다. 서로의 코드를 리뷰해주는 조직이라면 내가 미처 생각 못한 부분을 피드백받고 동료가 놓친 부분을 피드백 해주며 팀으로 함께 성장할수도 있다. 나열해보니 너무 이상적인 조직인가? 라는 반문이 들긴 하지만 “그런 조직만 가겠다”가 아니라 “내가 속한 조직을 능동적으로 그렇게 만들어보자”라는 측면으로 접근하면 모든 기준들이 충족될 필요는 없다.&lt;/p&gt;
