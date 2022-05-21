@@ -37,7 +37,7 @@ const Seo = ({ description, lang, meta, title }) => {
         lang,
       }}
       title={
-        window.location.pathname === "/"
+        typeof window !== "undefined" && window.location.pathname === "/"
           ? `${title}`
           : `${title} | ${defaultTitle}`
       }
