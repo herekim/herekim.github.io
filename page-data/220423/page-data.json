@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/220423/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"alwayshere"}},"markdownRemark":{"id":"214d2c9b-1002-54eb-9702-ca8001a26e05","excerpt":"Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from\nchicken eggs, though the taste and texture…","html":"<p>Wow! I love blogging so much already.</p>\n<p>Did you know that “despite its name, salted duck eggs can also be made from\nchicken eggs, though the taste and texture will be somewhat different, and the\negg yolk will be less rich.”?\n(<a href=\"https://en.wikipedia.org/wiki/Salted_duck_egg\">Wikipedia Link</a>)</p>\n<p>Yeah, I didn’t either.</p>","frontmatter":{"title":"잘해보자고요","date":"April 23, 2022","description":"작은 성취감의 언덕"}},"previous":{"fields":{"slug":"/220422/"},"frontmatter":{"title":"맨땅에서 맨땅으로"}},"next":null},"pageContext":{"id":"214d2c9b-1002-54eb-9702-ca8001a26e05","previousPostId":"896f1215-929a-552e-9752-e0ead5a3856e","nextPostId":null}},
-    "staticQueryHashes": ["2841359383","3257411868"]}
