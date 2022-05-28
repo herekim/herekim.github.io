@@ -28,13 +28,13 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: "Pretendard Variable", -apple-system, Montserrat, system-ui,
-    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
-    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
-    "Noto Color Emoji";
+  --fontFamily-sans: "Pretendard Variable", "Noto Sans", -apple-system,
+    Montserrat, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
   --fontFamily-serif: "Pretendard Variable", -apple-system, "Merriweather",
     "Georgia", Cambria, "Times New Roman", Times, serif;
-  --font-body: var(--fontFamily-serif);
+  /* --font-body: var(--fontFamily-serif); */
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
   --fontWeight-medium: 500;
@@ -80,7 +80,10 @@ html {
 }
 
 body {
-  font-family: var(--font-body);
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
   font-size: var(--fontSize-1);
   color: var(--color-text);
 }
