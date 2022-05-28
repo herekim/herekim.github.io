@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 May 2022 05:54:22 GMT</lastBuildDate><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 May 2022 06:03:04 GMT</lastBuildDate><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
 &lt;p&gt;어느덧 개발자라는 이름을 달게 된지도 1년이 되어가고 있다. 그동안 정말 많은 일이 있었고, 지금 생각해보면 이렇게 무모할 수 있었나 싶은 일들도, 다시는 겪고 싶지 않은 일들도, 목표를 달성하고 눈물날만큼 행복했던 순간도 있었다. 여전히 실력이 부족하지만 조금 머리가 컸다고 개발자로서 성장해 나가야 할 방향성, 긍정적인 조직 문화에 대한 나만의 기준이 생기기 시작했다. 그리고 자연스럽게 형성되는 이 기준들이 싫지 않다.&lt;/p&gt;
 &lt;p&gt;맨땅에서 맨땅으로, 1년 간 두 회사를 경험했고 두 회사 모두 유일한 프론트엔드 개발자로 입사했다. 누군가는 개발을 배운지 고작 3개월 밖에 안된 사람이 그게 가능하냐고, 입사는 고사하고 그 환경에서 좋은 성장이 가능하냐고 묻겠지만, 가능하게 하고싶었다. 그리고 할 수 있을 것만 같았다.&lt;/p&gt;
 &lt;p&gt;첫번째 회사에 최종 합격한 뒤, 한 멘토님께 이와 관련한 질문을 드린 적이 있었다. 멘토님의 대답은 “한번 해보시는걸 추천드려요. 돌아가는 길일 수 있지만 얻는 것은 분명 있을 거예요.”였다. “돌아가는 길”과 “얻는 것”. 그때는 몰랐지만 지금은 알게된 무엇이다. 이 글에서는 그 결론에 도달하게된 지난 1년 간의 과정을 회고해보려고 한다.&lt;/p&gt;
@@ -87,16 +87,20 @@
 &lt;p&gt;입사 후 맡은 업무는 3개월 간 아임웹 기반으로 작성된 서비스를 완전한 자체 서비스로 이전하는 것이었다. 프론트엔드 개발자 분이 퇴사를 하셔서 또 다시 홀로 프론트엔드 개발을 맡게된 상황이 왔다. 하지만 빠르게 인원 충원을 해주겠다는 약속을 받았기도 했고, 자체 서비스 확장에 처음부터 기여하면서 원하는 기술들을 접목할 수 있겠다는 생각 + 인원 충원이 되면 생각하던 개발 문화들을 하나 둘 접목시킬 생각에 나쁘지 않았던 것 같다.&lt;/p&gt;
 &lt;p&gt;내가 미처 생각하지 못했던 문제는 인원 충원이라는 약속이 없었던 일이 될 수 있었다는 점, 이전될 자체 서비스는 내가 생각했던 MVP(Minimum Viable Product)가 아니라 모든 것이 갖춰진 완벽한 수준의 프로덕트였다는 점, 그리고 비즈니스 문제라는 이유로 일정 조율의 여지가 거의 없을 수 있다는 점이었다. 그렇게 두번째 맨땅에 발을 딛게 되었다.&lt;/p&gt;
 &lt;p&gt;프론트엔드 파트에 대해 아는 사람이 없었기에 모든 것은 “내가 알아서” 해야했다. 그래서 입사 2주 차, 주어진 요구 사항의 파악부터 하기 시작했다. 요구 사항과 리소스를 정리해보니 다음과 같았다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- 프로젝트 기간 3개월
-- 선생님 / 학생 / 일반 / 관리자 총 4가지 feature
-- 데스크탑 웹 / 모바일 웹 / ios, android 웹뷰 총 3가지 환경
-- Figma 페이지 수 기준 모바일 웹만 계산 했을 때 선생님 feature 32 page, 학생 feature 74 page, + 아직 나오지않은 일반 feature page, 관리자 feature page
-- 프론트엔드 1명, 파트타임 백엔드 1명, 디자이너 1명&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 기간 3개월&lt;/li&gt;
+&lt;li&gt;선생님 / 학생 / 일반 / 관리자 총 4가지 feature&lt;/li&gt;
+&lt;li&gt;데스크탑 웹 / 모바일 웹 / ios, android 웹뷰 총 3가지 환경&lt;/li&gt;
+&lt;li&gt;Figma 페이지 수 기준 모바일 웹만 계산 했을 때 선생님 feature 32 page, 학생 feature 74 page, + 아직 나오지않은 일반 feature page, 관리자 feature page&lt;/li&gt;
+&lt;li&gt;프론트엔드 1명, 파트타임 백엔드 1명, 디자이너 1명&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;주어진 환경에 최선 다하기&lt;/h2&gt;
 &lt;p&gt;예상은 어느정도 했지만 막상 정리하고보니 도저히 가능한 지점이 안보였다. 하지만 나 또한 누구보다 프로덕트를 완료하고 싶은 욕심이 있었고, 잘 해내고 싶었다. 그래서 일이 되게 하려면 개선이 필요하다고 생각했다. 크게 3가지였고, 다음과 같았다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1. 현재 요구되는 풀패키지 기획안이 아닌 “정말 필요한 기능들만 있는” MVP의 기획안으로 수정
-2. 프론트엔드 파트에서 최대한 업무량을 줄여줄 수 있는 라이브러리들 적극 도입
-3. 구성원 모두가 같은 목표를 달성할 수 있도록 1~2주 단위의 스프린트를 도입해 목표를 세분화하고 장기 목표를 달성하기 위한 단기 목표를 구성원들과 함께 논의 및 합의&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;현재 요구되는 풀패키지 기획안이 아닌 “정말 필요한 기능들만 있는” MVP의 기획안으로 수정&lt;/li&gt;
+&lt;li&gt;프론트엔드 파트에서 최대한 업무량을 줄여줄 수 있는 라이브러리들 적극 도입&lt;/li&gt;
+&lt;li&gt;구성원 모두가 같은 목표를 달성할 수 있도록 1~2주 단위의 스프린트를 도입해 목표를 세분화하고 장기 목표를 달성하기 위한 단기 목표를 구성원들과 함께 논의 및 합의&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;가장 먼저 할 수 있는 것은 프론트엔드 파트의 프로젝트 세팅이었다. 가장 주요하게 생각한 것은 “퍼블리싱 업무의 최소화”였다. 개발할 페이지 수 자체가 너무 많았기 때문이다. 그래서 여러 CSS 라이브러리 중 tailwindcss 를 선택했다. 며칠 간만 문법을 익히면 일관된 디자인을 제공할 수 있고, 특히 반응형을 간단하게 적용할 수 있었기 때문이다. 이 선택은 유효했다. 문법을 익히기 시작하자 체감되는 퍼블리싱 업무 소요 시간이 현저하게 줄어들었으며 실제 선생님 feature 개발 시 반응형 업무를 예상 시간보다 절반을 줄여주었다.&lt;/p&gt;
 &lt;p&gt;이 밖에도 클라이언트 전역 state와 서버 state를 분리해서 관리하기 위한 Recoil + React Query, TypeScript, Next.js 등의 필요한 프레임워크, 라이브러리와 react-hook-form, dayjs 등 안정성은 유지하면서 업무 시간은 획기적으로 단축할 수 있는 라이브러리들을 적용하였다.&lt;/p&gt;
 &lt;p&gt;하지만 이것은 근본적인 해결책은 아니었다. 공동의 목표를 달성하기 위한 팀으로써의 논의가 가장 필요했다. 1, 3번 문제가 이에 해당됐다. 이와 관련해 팀원들을 설득하기 시작했다. 해당 문제를 논의하기 위한 4~5차례의 미팅을 요청했다. 현재 프로젝트가 불가능한 이유를 사례와 대안을 들어 설명하고, 되게 하기 위해 어떤 것들이 필요한지 문서를 작성해서 팀원들에게 공유하기도 했다. 수시로 다양한 근거를 바탕으로 의견을 피력하기도 했다. 나와 같은 의견을 가진 팀원도 있었고, 그렇지 않은 팀원도 있었지만 결과는 실패였다. 주요 골자는 “비즈니스 문제”였다&lt;/p&gt;
