@@ -1,7 +1,7 @@
 ---
 title: 친구들, 헤쳐모여 !
-date: "2022-05-21T00:00:00.000Z"
-description: "개발자 김희열의 1년 간의 회고록"
+date: "2022-06-06T00:00:00.000Z"
+description: "Webpack의 기본 탐구하기"
 ---
 
 이 글은 이고잉님의 [생활코딩 Webpack 편](https://opentutorials.org/module/4566)을 기반으로 학습한 내용입니다.
