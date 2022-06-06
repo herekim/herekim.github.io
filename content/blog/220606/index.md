@@ -163,7 +163,6 @@ npx webpack --entry ./src/index.js --output-path ./public --output-filename bund
 
 ```js
 module.exports = {
-  // 안녕하세요
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "public"),
