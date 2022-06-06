@@ -70,6 +70,10 @@
 :after,
 :before {
   box-sizing: border-box;
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
 }
 
 html {
@@ -171,11 +175,15 @@ p {
   padding: var(--spacing-0);
 }
 
+.caption {
+  margin: var(--spacing-0);
+}
+
 ul,
 ol {
   margin-left: var(--spacing-0);
   margin-right: var(--spacing-0);
-  padding: var(--spacing-0);
+  padding-left: var(--spacing-8);
   margin-bottom: var(--spacing-8);
   list-style-position: outside;
   list-style-image: none;
@@ -229,6 +237,24 @@ table {
 
 table thead tr th {
   border-bottom: 1px solid var(--color-accent);
+}
+
+.gatsby-highlight {
+  background-color: hsla(207, 95%, 15%, 1);
+  display: block;
+}
+
+blockquote {
+  color: $blockquote-text-color;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
+  font-style: normal;
 }
 
 /* Link */
@@ -316,6 +342,10 @@ a:focus {
 
 .blog-post-nav ul {
   margin: var(--spacing-0);
+}
+
+div > .gatsby-highlight {
+  background-color: transparent !important;
 }
 
 .gatsby-highlight {

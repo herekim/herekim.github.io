@@ -20,8 +20,6 @@ description: "Webpack의 기본 탐구하기"
 
 Webpack은 번들러다. 어원 그대로 묶는 도구정도로 해석할 수 있다. 그럼 ‘무엇을’ 묶을까? 그리고 ‘왜’ 묶을까? 답은 JavaScript의 변수 유효 범위에 있다. JavaScript의 변수는 기본적으로 전역 범위를 가진다. 이를 기억하고 아래의 코드를 보자, 어떤 결과물을 기대할 수 있을까?
 
-| <b> Code 1 </b>|
-
 ```html
 <!-- index.html -->
 <html>
@@ -38,8 +36,6 @@ Webpack은 번들러다. 어원 그대로 묶는 도구정도로 해석할 수 �
   </body>
 </html>
 ```
-
-| <b> Code 2 </b>|
 
 ```js
 // hello.js
@@ -67,7 +63,7 @@ Webpack이 없을 때, 브라우저의 모듈을 적용했을 때, Webpack을 �
 
 ## Webpack이 없을 때
 
-code 1, code 2 가 Webpack을 적용하지 않았을 때의 코드이다. 해당 코드를 실행했을 때에 Network 탭을 살펴보자. 아래와 같이 hello.js 파일과 world.js 파일이 각각 다운로드 된다. 또한 각 파일이 변수명이 겹치면서 원하는 출력을 하지 않는다
+Webpack을 적용하지 않았을 때의 코드를 실행했을 때에 Network 탭을 살펴보자. 아래와 같이 hello.js 파일과 world.js 파일이 각각 다운로드 된다. 또한 각 파일이 변수명이 겹치면서 원하는 출력을 하지 않는다
 
 ![스크린샷 2022-06-03 15.56.42.png](./not-webpack.png)
 
@@ -165,8 +161,9 @@ npx webpack --entry ./src/index.js --output-path ./public --output-filename bund
 
 상단에서 사용한 webpack 명령어를 webpack.config.js에서 처리하면 다음과 같다. 이제 npx webpack 명령어만 입력하면 된다.
 
-```jsx
+```js
 module.exports = {
+  // 안녕하세요
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "public"),
@@ -179,10 +176,10 @@ module.exports = {
 
 Webpack에는 개발모드와 프로덕트모드가 있다. 우선 두 모드의 차이를 코드로 살펴보자.
 
-| <b> production mode </b>|
+_production mode_
 ![production mode](./product-mode.png)
 
-| <b> development mode </b>|
+_development mode_
 ![development mode](./development-mode.png)
 
 위 코드가 프로덕트 모드, 아래가 개발 모드이다. 한 눈에 봐도 프로덕트 모드는 용량 압축을 위해 최대한 코드를 줄여 알아보기가 힘들다(물론 개발 모드가 쉽다는 말은 아니다 🙃) 각각의 모드마다 개발 모드는 개발자가 웹팩 로그나 결과물을 개발자가 파악하기 용이하고, 프로덕트 모드는 성능 최적화를 위한 파일 압축 등의 빌드 과정이 추가된다.
@@ -315,10 +312,10 @@ module.exports = {
 
 entry를 객체형태로 만들 수 있다. 번들링을 원하는 파일을 기입하고, output에서 파일 이름을 동적으로 할당할 수 있다. 저기서 [name]은 entry에서 설정한 객체 요소의 이름으로 들어가게 된다. 이제 원하는 output 설정을 할 수 있게 되었다. 더 자세한 설정은 [공식문서 output 탭](https://webpack.js.org/configuration/output/)에서 확인할 수 있다.
 
-| <b> index_bundle.js </b>|
+_index_bundle.js_
 ![index_bundle.js](./loader.png)
 
-| <b> about_bundle.js </b>|
+_about_bundle.js_
 ![about_bundle.js](./loader-about.png)
 
 ## Plugin 도입
@@ -411,12 +408,8 @@ module.exports = {
 
 ### 참고자료
 
-[https://opentutorials.org/module/4566](https://opentutorials.org/module/4566)
-
-[https://joshua1988.github.io/webpack-guide/](https://joshua1988.github.io/webpack-guide/)
-
-[https://webpack.js.org/](https://webpack.js.org/)
-
-[https://2021.stateofjs.com/en-US/libraries/build-tools](https://2021.stateofjs.com/en-US/libraries/build-tools)
-
-[https://ko.javascript.info/modules-intro](https://ko.javascript.info/modules-intro)
+- [https://opentutorials.org/module/4566](https://opentutorials.org/module/4566)
+- [https://joshua1988.github.io/webpack-guide/](https://joshua1988.github.io/webpack-guide/)
+- [https://webpack.js.org/](https://webpack.js.org/)
+- [https://2021.stateofjs.com/en-US/libraries/build-tools](https://2021.stateofjs.com/en-US/libraries/build-tools)
+- [https://ko.javascript.info/modules-intro](https://ko.javascript.info/modules-intro)

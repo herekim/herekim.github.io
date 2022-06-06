@@ -62,8 +62,18 @@ hr {
  */
 
 pre {
-  font-family: Pretendard, monospace, monospace; /* 1 */
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji"; /* 1 */
   font-size: 1em; /* 2 */
+}
+
+.language-jsx {
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji"; /* 1 */
 }
 
 /* Text-level semantics
@@ -105,7 +115,10 @@ strong {
 code,
 kbd,
 samp {
-  font-family: Pretendard, monospace, monospace; /* 1 */
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji"; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -162,7 +175,10 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: Pretendard, inherit; /* 1 */
+  font-family: "Pretendard Variable", "Noto Sans", -apple-system, Montserrat,
+    system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji"; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
