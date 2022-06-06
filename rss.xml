@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Jun 2022 06:24:29 GMT</lastBuildDate><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220521/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/220606/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Jun 2022 15:26:49 GMT</lastBuildDate><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220606/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -38,7 +38,6 @@
 &lt;p&gt;그러다가 우연히 webpack을 다시 한번 마주쳤다. 그땐 이런 생각이 들었다. “얘부터 꿀밤 정도는 때려봐야 나의 다른 궁금증들을 하나 둘씩 해소할 수 있겠구나”. 그래서 학습해보았다. webpack이란 아이는 대체 어떤 이유로 탄생했으며, 어떤 문제점을 해결해주는지. 그리고 앞으로 webpack을 직접 설정하거나 수정해야할 때에는 어떻게 접근해야할지.&lt;/p&gt;
 &lt;h1&gt;Webpack&lt;/h1&gt;
 &lt;p&gt;Webpack은 번들러다. 어원 그대로 묶는 도구정도로 해석할 수 있다. 그럼 ‘무엇을’ 묶을까? 그리고 ‘왜’ 묶을까? 답은 JavaScript의 변수 유효 범위에 있다. JavaScript의 변수는 기본적으로 전역 범위를 가진다. 이를 기억하고 아래의 코드를 보자, 어떤 결과물을 기대할 수 있을까?&lt;/p&gt;
-&lt;p&gt;| &lt;b&gt; Code 1 &lt;/b&gt;|&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- index.html --&gt;&lt;/span&gt;
 &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
   &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
@@ -53,7 +52,6 @@
     &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
   &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;| &lt;b&gt; Code 2 &lt;/b&gt;|&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// hello.js&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; word &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Hello&quot;&lt;/span&gt;
 
@@ -99,7 +97,7 @@
 &lt;h1&gt;Webpack basic&lt;/h1&gt;
 &lt;p&gt;Webpack이 없을 때, 브라우저의 모듈을 적용했을 때, Webpack을 기본 적용했을 때 세 가지를 비교해보자.&lt;/p&gt;
 &lt;h2&gt;Webpack이 없을 때&lt;/h2&gt;
-&lt;p&gt;code 1, code 2 가 Webpack을 적용하지 않았을 때의 코드이다. 해당 코드를 실행했을 때에 Network 탭을 살펴보자. 아래와 같이 hello.js 파일과 world.js 파일이 각각 다운로드 된다. 또한 각 파일이 변수명이 겹치면서 원하는 출력을 하지 않는다&lt;/p&gt;
+&lt;p&gt;Webpack을 적용하지 않았을 때의 코드를 실행했을 때에 Network 탭을 살펴보자. 아래와 같이 hello.js 파일과 world.js 파일이 각각 다운로드 된다. 또한 각 파일이 변수명이 겹치면서 원하는 출력을 하지 않는다&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -259,7 +257,8 @@ document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span c
 &lt;h1&gt;webpack.config.js&lt;/h1&gt;
 &lt;p&gt;매번 명령어를 나열하면서 실행하기엔 비효율적이다. 그렇기 때문에 root위치에 설정 파일을 만들어서 원하는 설정을 자동 지정하도록 처리할 수 있다.&lt;/p&gt;
 &lt;p&gt;상단에서 사용한 webpack 명령어를 webpack.config.js에서 처리하면 다음과 같다. 이제 npx webpack 명령어만 입력하면 된다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre class=&quot;language-jsx&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;// 안녕하세요&lt;/span&gt;
   &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
@@ -268,7 +267,7 @@ document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span c
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h1&gt;모드의 도입&lt;/h1&gt;
 &lt;p&gt;Webpack에는 개발모드와 프로덕트모드가 있다. 우선 두 모드의 차이를 코드로 살펴보자.&lt;/p&gt;
-&lt;p&gt;| &lt;b&gt; production mode &lt;/b&gt;|
+&lt;p&gt;&lt;em&gt;production mode&lt;/em&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -302,7 +301,7 @@ document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span c
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;| &lt;b&gt; development mode &lt;/b&gt;|
+&lt;p&gt;&lt;em&gt;development mode&lt;/em&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -495,7 +494,7 @@ module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
   &lt;span class=&quot;token comment&quot;&gt;//...&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;entry를 객체형태로 만들 수 있다. 번들링을 원하는 파일을 기입하고, output에서 파일 이름을 동적으로 할당할 수 있다. 저기서 [name]은 entry에서 설정한 객체 요소의 이름으로 들어가게 된다. 이제 원하는 output 설정을 할 수 있게 되었다. 더 자세한 설정은 &lt;a href=&quot;https://webpack.js.org/configuration/output/&quot;&gt;공식문서 output 탭&lt;/a&gt;에서 확인할 수 있다.&lt;/p&gt;
-&lt;p&gt;| &lt;b&gt; index_bundle.js &lt;/b&gt;|
+&lt;p&gt;&lt;em&gt;index_bundle.js&lt;/em&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -529,7 +528,7 @@ module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;| &lt;b&gt; about_bundle.js &lt;/b&gt;|
+&lt;p&gt;&lt;em&gt;about_bundle.js&lt;/em&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -637,11 +636,13 @@ module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;
 &lt;p&gt;이 밖에도 Webpack에는 live reload와 hot module replacement를 지원하는 DevServer, 너무 커진 번들링 파일을 쪼개고 필요할 때마다 로딩할 수 있는 Code splitting, Lazy loading 등 다양한 기능을 지원하고 있다. 이 기능들도 필요할 때 적절히 이해하고 적용해야 한다.&lt;/p&gt;
 &lt;p&gt;실제 상황에서는 위 예제들보다 훨씬 복잡하고 다양한 상황을 맞이해야할 것을 알고 있다. 그럼에도 오랫동안 사랑받은 기술의 존재의 의미와 기본적인 동작 방식을 이해하는 것은 응용에 앞서 좀 더 큰 숲의 관점에서 프로세스를 이해할 수 있다는 의미가 있는 것 같다. 너무 어려워보였던 기술을 막상 며칠 간 펼쳐놓고 보니 그리 무서운 것은 아니었다. 앞으로도 이 경험을 토대로 필요에 의해 원하는 것들을 그냥 해보자. 생각보다 어려운 것은 없다!&lt;/p&gt;
 &lt;h3&gt;참고자료&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;https://opentutorials.org/module/4566&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://joshua1988.github.io/webpack-guide/&quot;&gt;https://joshua1988.github.io/webpack-guide/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://webpack.js.org/&quot;&gt;https://webpack.js.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://2021.stateofjs.com/en-US/libraries/build-tools&quot;&gt;https://2021.stateofjs.com/en-US/libraries/build-tools&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://ko.javascript.info/modules-intro&quot;&gt;https://ko.javascript.info/modules-intro&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;https://opentutorials.org/module/4566&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://joshua1988.github.io/webpack-guide/&quot;&gt;https://joshua1988.github.io/webpack-guide/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://webpack.js.org/&quot;&gt;https://webpack.js.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://2021.stateofjs.com/en-US/libraries/build-tools&quot;&gt;https://2021.stateofjs.com/en-US/libraries/build-tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ko.javascript.info/modules-intro&quot;&gt;https://ko.javascript.info/modules-intro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
 &lt;p&gt;어느덧 개발자라는 이름을 달게 된지도 1년이 되어가고 있다. 그동안 정말 많은 일이 있었고, 지금 생각해보면 이렇게 무모할 수 있었나 싶은 일들도, 다시는 겪고 싶지 않은 일들도, 목표를 달성하고 눈물날만큼 행복했던 순간도 있었다. 여전히 실력이 부족하지만 조금 머리가 컸다고 개발자로서 성장해 나가야 할 방향성, 긍정적인 조직 문화에 대한 나만의 기준이 생기기 시작했다. 그리고 자연스럽게 형성되는 이 기준들이 싫지 않다.&lt;/p&gt;
 &lt;p&gt;맨땅에서 맨땅으로, 1년 간 두 회사를 경험했고 두 회사 모두 유일한 프론트엔드 개발자로 입사했다. 누군가는 개발을 배운지 고작 3개월 밖에 안된 사람이 그게 가능하냐고, 입사는 고사하고 그 환경에서 좋은 성장이 가능하냐고 묻겠지만, 가능하게 하고싶었다. 그리고 할 수 있을 것만 같았다.&lt;/p&gt;
 &lt;p&gt;첫번째 회사에 최종 합격한 뒤, 한 멘토님께 이와 관련한 질문을 드린 적이 있었다. 멘토님의 대답은 “한번 해보시는걸 추천드려요. 돌아가는 길일 수 있지만 얻는 것은 분명 있을 거예요.”였다. “돌아가는 길”과 “얻는 것”. 그때는 몰랐지만 지금은 알게된 무엇이다. 이 글에서는 그 결론에 도달하게된 지난 1년 간의 과정을 회고해보려고 한다.&lt;/p&gt;
