@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 May 2022 06:03:04 GMT</lastBuildDate><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Jun 2022 06:21:06 GMT</lastBuildDate><item><title><![CDATA[맨땅에서 맨땅으로]]></title><description><![CDATA[들어가며 어느덧 개발자라는 이름을 달게 된지도…]]></description><link>https://herekim.github.io/alwayshere/220521/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
 &lt;p&gt;어느덧 개발자라는 이름을 달게 된지도 1년이 되어가고 있다. 그동안 정말 많은 일이 있었고, 지금 생각해보면 이렇게 무모할 수 있었나 싶은 일들도, 다시는 겪고 싶지 않은 일들도, 목표를 달성하고 눈물날만큼 행복했던 순간도 있었다. 여전히 실력이 부족하지만 조금 머리가 컸다고 개발자로서 성장해 나가야 할 방향성, 긍정적인 조직 문화에 대한 나만의 기준이 생기기 시작했다. 그리고 자연스럽게 형성되는 이 기준들이 싫지 않다.&lt;/p&gt;
 &lt;p&gt;맨땅에서 맨땅으로, 1년 간 두 회사를 경험했고 두 회사 모두 유일한 프론트엔드 개발자로 입사했다. 누군가는 개발을 배운지 고작 3개월 밖에 안된 사람이 그게 가능하냐고, 입사는 고사하고 그 환경에서 좋은 성장이 가능하냐고 묻겠지만, 가능하게 하고싶었다. 그리고 할 수 있을 것만 같았다.&lt;/p&gt;
 &lt;p&gt;첫번째 회사에 최종 합격한 뒤, 한 멘토님께 이와 관련한 질문을 드린 적이 있었다. 멘토님의 대답은 “한번 해보시는걸 추천드려요. 돌아가는 길일 수 있지만 얻는 것은 분명 있을 거예요.”였다. “돌아가는 길”과 “얻는 것”. 그때는 몰랐지만 지금은 알게된 무엇이다. 이 글에서는 그 결론에 도달하게된 지난 1년 간의 과정을 회고해보려고 한다.&lt;/p&gt;
@@ -156,4 +156,647 @@
 &lt;p&gt;문득 글을 적으면서 이런 생각을 했다. “어쩌면 내가 철새인 거 아닐까?”. 그도 그럴 것이 개발자가 된 1년 동안 1번의 이직을 했으며 현재있는 곳도 내 선택에 대한 책임이 다하면 더이상 기다리지 않고 나와 더 컬쳐핏이 맞는 곳을 찾게 될 것 같다. 사실 조금 더 깊이 생각을 파헤쳐보면, 스스로 그렇게 생각한다기보다 누군가 나를 그렇게 생각하면 어쩌지에 가깝다. 당연할 수 있겠지만 나는 나 자신을 그렇게 평가하지 않는다. :-)&lt;/p&gt;
 &lt;p&gt;다만 성장에 대한 욕심이 좀 많은 건 있는 것 같다. 인정할 수 밖에 없는 부분.. 그런데 그 욕심이 나를 움직이게 한다고 믿는다. 몇번의 시행착오를 통해 나는 나만의 기준을 획득했고, 그 욕심 때문에 부족한 부분을 찾고 메꾸기 위해 고민하고 성장하기 위해 시도한다. 글을 적다보니 또 이런 욕심이 든다. 기술적으로 깊은 내용을 다루는 블로그 글을 조만간 올려야겠다 뭐 이런. 어디에선가 그런 깊은 글들을 보고있자면 배울 점들이 보인다. 나는 항상 기술을 찍먹하는 수준으로 다루고 넘기는데 그 글들은 깊게 기술적인 사고를 해야만 나오는 결과물이라고 느낀다. 그런 진득한 부분이 나에게도 필요한 것 같다.&lt;/p&gt;
 &lt;p&gt;개발자로 살아간 1년의 경험을 전체적으로 한 마디로 총평하자면 “불안 속 행복”이다. 참 불안함을 많이 느낀다. 이건 내 성격적 기질일수도 있다는 생각이 드는데, 어렸을 때부터 컴퓨터 자체를 사랑하신 분들, 혹은 나와 비슷하게 시작한 것 같은데 더 깊은 지식을 가지고 있는 것 같은 분들을 볼 때면 언젠간 나도 꼭! 이라는 생각이 들면서 동시에 약간의 질투심도 유발되는 것 같다. 나에게 주어진 과제는 이 불안함을 조급함이 아니라 긍정적인 성장의 동력으로 전환하는 것이지 않을까, 고민해보면서 이 글을 마친다.&lt;/p&gt;
-&lt;p&gt;어느 지점에서든 나처럼 불안함을 느끼는 이들이여, 피쓰-⭐️&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;어느 지점에서든 나처럼 불안함을 느끼는 이들이여, 피쓰-⭐️&lt;/p&gt;</content:encoded></item><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220521/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220521/220606/</guid><pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ceabe8ce70675297bd53fdaa29402a42/2cefc/webpack.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.50632911392405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAABTUlEQVQY022RvU7DMBSF8zqUxImb/9hObMduYqdJ+VMHBiQWts5FYkAq6sgDsCAxsSAkBCs7A4y8D4pTVRUgnelefefqnGtBImIxBYg7KXVSClIKMgYy5qJyPyJOSl3Eh8lfWZCIgClIRFbNAqo8XA6LUYhoe+LnchThLe/i0jMaJhbMJaq7gNUB11gdpJMOIO4hfn65vnn+WN495c2xkxTGlI+LScBUxFVA681lrI/SqssmbSynUdnYSeHnYvX4vnj4XL1+ny6WdkziUkMixnkPh1z7RdXDnsmcyGki24hrVHUg4xDxi+vb9cvX1f0b7eZ2UkAiQMZCVseljngvA2MRMhUyRfRhwNRgCTJmx6San8VC72Y2l9pEtp7xMpmrmV9MXFzacV/vpkzE9kJsJ8Wvtj3Et6VaIGM+VSFvQt4ksoNE7nyL//cnatTDP1D5eql7o+eQAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;webpack.png&quot;
+        title=&quot;webpack.png&quot;
+        src=&quot;/static/ceabe8ce70675297bd53fdaa29402a42/f058b/webpack.png&quot;
+        srcset=&quot;/static/ceabe8ce70675297bd53fdaa29402a42/c26ae/webpack.png 158w,
+/static/ceabe8ce70675297bd53fdaa29402a42/6bdcf/webpack.png 315w,
+/static/ceabe8ce70675297bd53fdaa29402a42/f058b/webpack.png 630w,
+/static/ceabe8ce70675297bd53fdaa29402a42/40601/webpack.png 945w,
+/static/ceabe8ce70675297bd53fdaa29402a42/78612/webpack.png 1260w,
+/static/ceabe8ce70675297bd53fdaa29402a42/2cefc/webpack.png 1400w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;들어가기에 앞서&lt;/h1&gt;
+&lt;p&gt;여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack이 고갤 들어 나에게 인사를 건낼 때 마다 지금껏 이 꽉 깨물고 모른 척 해왔다. 그 이유는 두 가지 정도로 압축할 수 있겠는데, 첫째는 “이거 지금 내가 할 수 있을까? 아냐 못 할거야”라는 지레 짐작, 둘째는 “React에서 CRA하면 알아서 되는데 지금 굳이..?” 정도였다.&lt;/p&gt;
+&lt;p&gt;하지만 요즘들어 조금씩 단순 기능 구현보다는 내부 구현 사항들이 궁금해진다. 가령 브라우저 렌더링 과정에서 단순 문자의 나열인 html, css 문서를 토큰 - 노드 - DOM(CSSOM)으로 파싱하는 과정의 내부에서는 대체 어떤 일이 일어나고 있는 걸까? 라던지, React의 Vitual DOM이라는 아이는 비교 알고리즘을 통해 실제 DOM에서 변경된 사항만 쏙 바꿔준다는데 그 알고리즘은 대체 어떻게 구현되어 있는걸까? 같은.&lt;/p&gt;
+&lt;p&gt;그러다가 우연히 webpack을 다시 한번 마주쳤다. 그땐 이런 생각이 들었다. “얘부터 꿀밤 정도는 때려봐야 나의 다른 궁금증들을 하나 둘씩 해소할 수 있겠구나”. 그래서 학습해보았다. webpack이란 아이는 대체 어떤 이유로 탄생했으며, 어떤 문제점을 해결해주는지. 그리고 앞으로 webpack을 직접 설정하거나 수정해야할 때에는 어떻게 접근해야할지.&lt;/p&gt;
+&lt;h1&gt;Webpack&lt;/h1&gt;
+&lt;p&gt;Webpack은 번들러다. 어원 그대로 묶는 도구정도로 해석할 수 있다. 그럼 ‘무엇을’ 묶을까? 그리고 ‘왜’ 묶을까? 답은 JavaScript의 변수 유효 범위에 있다. JavaScript의 변수는 기본적으로 전역 범위를 가진다. 이를 기억하고 아래의 코드를 보자, 어떤 결과물을 기대할 수 있을까?&lt;/p&gt;
+&lt;p&gt;| &lt;b&gt; Code 1 &lt;/b&gt;|&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- index.html --&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./src/index.js&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./src/hello.js&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Hello, Webpack&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;root&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;span class=&quot;token language-javascript&quot;&gt;
+      document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;querySelector&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;#root&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;textContent &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; word
+    &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;| &lt;b&gt; Code 2 &lt;/b&gt;|&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// hello.js&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; word &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Hello&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// index.js&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; word &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;World&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;의도한 결과물은 Hello World 였지만 실제 결과는 World만 나왔다. script 태그로 불러온 두 JavaScript 파일의 변수명이 word로 겹치기 때문이다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 19.62025316455696%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAn0lEQVQY03WNiQ7CMAxD+/+fCGzA7nVt04ah3TNqEWMIiGTJfklkkWQFyDGUIShjf4hgrENe1jhE55A1vXl8SXBN8+e/JohKNmBmdF2HYRjQ9/2XxnGEtQ5K6eD3XMoGxyiGIQr/4niKkBdlCP80TROMIVS1DH7Pi7JCkmZbiZCyBvMN67pinmcsy/Ihz/yube9wjre7F9eG4Jjhxxc8ABBdM4AHe2p8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스크린샷 2022-05-31 17.48.40.png&quot;
+        title=&quot;스크린샷 2022-05-31 17.48.40.png&quot;
+        src=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png&quot;
+        srcset=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/c26ae/not-webpack.png 158w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/6bdcf/not-webpack.png 315w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png 630w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/40601/not-webpack.png 945w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png 1232w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;웹에서 동작하는 서비스의 규모가 점점 커지면서 이 변수명 중복 문제를 해결하기 위한 여러 테크닉이 발전했다. 하지만 여전히 근본적인 문제 해결은 불가능했다. 이고잉님의 표현을 빌리자면, 마치 폴더 기능이 없는 파일 시스템과 비슷하다. 그래서 나온 개념이 바로 모듈이다. 최신 브라우저에는 기본적으로 &lt;a href=&quot;https://ko.javascript.info/modules-intro&quot;&gt;모듈 기능이 탑재&lt;/a&gt;되어 있기도 하다.&lt;/p&gt;
+&lt;p&gt;해결되지 않는 문제는 한 가지가 더 있었다. 프로젝트의 크기가 커질수록 웹 서버에서 너무 많은 리소스를 다운로드를 해야했기 때문이다. 네트워크 커넥션이 너무 많아지면 비용 측면, 유저 측면 등 여러 요소에서 비효율이 발생했다. 그렇게 ‘웹에서도 모듈의 개념을 사용하고 싶다는 의견’과 ‘리소스의 네트워크 커넥션 문제’로 등장한 것이 바로 Webpack이다.&lt;/p&gt;
+&lt;p&gt;최근 번들러 춘추 전국시대라는 말이 나올 정도로 여러 번들링 툴이 등장하고 있다. Rollup 이라는 번들러도 Webpack과 함께 꾸준히 인기가 많고, &lt;a href=&quot;https://2021.stateofjs.com/en-US/libraries/build-tools&quot;&gt;2021년 기준으로는 Vite, esbuild, SWC가 가장 많이 사랑받고 있기도 하다&lt;/a&gt;. 그럼에도 Webpack으로 학습해보는 이유는 여전히 레거시 코드에는 Webpack으로 번들링된 코드가 많고 생태계가 가장 넓기 때문도 있지만, 오랫동안 사랑받은 번들러를 이해함으로써 Vite등의 최신 번들러가 10~100배의 속도 차이를 낼 수 있는 이유도 명확히 파악이 가능하다고 생각하기 때문이다.&lt;/p&gt;
+&lt;p&gt;자, 서론이 길었다. 그럼 그 Webpack이 어떻게 자유분방하던 친구들을 한곳에 모아주는지 살펴보자.&lt;/p&gt;
+&lt;h1&gt;Webpack basic&lt;/h1&gt;
+&lt;p&gt;Webpack이 없을 때, 브라우저의 모듈을 적용했을 때, Webpack을 기본 적용했을 때 세 가지를 비교해보자.&lt;/p&gt;
+&lt;h2&gt;Webpack이 없을 때&lt;/h2&gt;
+&lt;p&gt;code 1, code 2 가 Webpack을 적용하지 않았을 때의 코드이다. 해당 코드를 실행했을 때에 Network 탭을 살펴보자. 아래와 같이 hello.js 파일과 world.js 파일이 각각 다운로드 된다. 또한 각 파일이 변수명이 겹치면서 원하는 출력을 하지 않는다&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 19.62025316455696%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAn0lEQVQY03WNiQ7CMAxD+/+fCGzA7nVt04ah3TNqEWMIiGTJfklkkWQFyDGUIShjf4hgrENe1jhE55A1vXl8SXBN8+e/JohKNmBmdF2HYRjQ9/2XxnGEtQ5K6eD3XMoGxyiGIQr/4niKkBdlCP80TROMIVS1DH7Pi7JCkmZbiZCyBvMN67pinmcsy/Ihz/yube9wjre7F9eG4Jjhxxc8ABBdM4AHe2p8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스크린샷 2022-06-03 15.56.42.png&quot;
+        title=&quot;스크린샷 2022-06-03 15.56.42.png&quot;
+        src=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png&quot;
+        srcset=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/c26ae/not-webpack.png 158w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/6bdcf/not-webpack.png 315w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png 630w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/40601/not-webpack.png 945w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png 1232w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;모듈화 하기&lt;/h2&gt;
+&lt;p&gt;최신 브라우저에서는 script 태그의 type에 module을 지원한다. 몇가지 설정은 다음과 같다. 모듈화에 대한 자세한 내용은 &lt;a href=&quot;https://ko.javascript.info/modules-intro&quot;&gt;링크&lt;/a&gt;를 참고하자.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;script 태그에 type=”module”&lt;/li&gt;
+&lt;li&gt;script 태그 내부에서 원하는 모듈 import&lt;/li&gt;
+&lt;li&gt;해당 js 파일에서 export&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- index.html --&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Hello, Webpack&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;root&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;module&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;span class=&quot;token language-javascript&quot;&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; helloWord &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/hello.js&quot;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; worldWord &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/world.js&quot;&lt;/span&gt;
+      document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;querySelector&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;#root&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;textContent &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; helloWord &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; worldWord
+    &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// hello.js&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; word &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Hello&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; word&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// world.js&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; word &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;World&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; word&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이렇게 모듈화를 하면 변수명 중복 문제가 해결된다. 하지만 Network 탭에서는 여전히 문제가 남아있다. 모든 js 파일을 다운로드 하고있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 19.62025316455696%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAn0lEQVQY03WNiQ7CMAxD+/+fCGzA7nVt04ah3TNqEWMIiGTJfklkkWQFyDGUIShjf4hgrENe1jhE55A1vXl8SXBN8+e/JohKNmBmdF2HYRjQ9/2XxnGEtQ5K6eD3XMoGxyiGIQr/4niKkBdlCP80TROMIVS1DH7Pi7JCkmZbiZCyBvMN67pinmcsy/Ihz/yube9wjre7F9eG4Jjhxxc8ABBdM4AHe2p8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스크린샷 2022-06-03 15.56.42.png&quot;
+        title=&quot;스크린샷 2022-06-03 15.56.42.png&quot;
+        src=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png&quot;
+        srcset=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/c26ae/not-webpack.png 158w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/6bdcf/not-webpack.png 315w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png 630w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/40601/not-webpack.png 945w,
+/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png 1232w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Webpack basic&lt;/h2&gt;
+&lt;p&gt;Webpack의 설치는 되었다고 가정하고 Webpack 명령어를 통해 원하는 파일을 번들링 해보자.&lt;/p&gt;
+&lt;p&gt;목표는 hello.js와 world.js를 import한 index.js를 entry 파일로 지정하고 해당 js파일을 번들링한 js파일을 원하는 위치에 저장시키는 것이다. index.html에서는 해당 번들링 파일 !딱 하나만! 가져와도 원하는 동작을 해야한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!--  index.html --&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Hello, Webpack&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;root&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./public/bundle.js&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// index.js&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; helloWord &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./hello.js&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; worldWord &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./world.js&quot;&lt;/span&gt;
+
+document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;querySelector&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;#root&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;textContent &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; helloWord &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; worldWord&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;npx webpack &lt;span class=&quot;token operator&quot;&gt;--&lt;/span&gt;entry &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;src&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;index&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;js &lt;span class=&quot;token operator&quot;&gt;--&lt;/span&gt;output&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;path &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;--&lt;/span&gt;output&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;filename bundle&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;js&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이제 터미널에서 webpack을 실행해보자.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;—entry
+번들링할 파일&lt;/li&gt;
+&lt;li&gt;—output-path
+번들링 파일을 지정할 파일 위치&lt;/li&gt;
+&lt;li&gt;—output-filename
+저장할 번들링 파일의 이름&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;참고로 entry와 output을 지정하지않고 명령어 npx webpack 만 실행했을 때 기본 설정은 아래와 같다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;entry : ./src/index.js&lt;/li&gt;
+&lt;li&gt;output : ./dist/main.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;번들링 후 실행했을 때 화면이다.&lt;/p&gt;
+&lt;p&gt;의도한 “Hello World”가 정상적으로 출력되고, Network 탭에서는 bundle.js 파일 단 하나만 다운로드 하는 것을 확인할 수 있다. 이제 수백개의 JavaScript를 단 하나의 파일만 다운로드를 해서 실행할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9815bade202e2d50cc2bec85f564fa5b/6ee58/on-webpack.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 34.177215189873415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABJ0lEQVQoz3WP3W6jMBSEef+3yk2kPEBu2qYm/NoUMIGAbczmW9m7QWmljjQ6c+ZizpnkeDxyuVw4HA6cTifO5zPbtuHXlUKkFKrlWlSUtSQvayrZ7DorSsQ1o2l73j5zCtmSCCHQWtP3PUophmHgAXjnkGlKoyf0beI2TmRlCFakWcH7Z4q45lzEFZHlZKWMhxNjTPzoJ9Z1pel6KimpaoWxlrbX6OEWqZqWYRxp2o6vrosHVfNF8gx4PB47A7zfWL1n+78HWGvjIe89ztr4SNh3zzmS15BXHcLmxeDWlcXY+KF1DmPdPudlYTEm6qef/Kz6DLRu5UPk1FJxn2em+/0bg1dWNbVsmOeFafrn/xr4Z9uQsqTtulgp1HllqKj1wDhOe91Q+S/NChk/wS6rqwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스크린샷 2022-06-03 16.42.36.png&quot;
+        title=&quot;스크린샷 2022-06-03 16.42.36.png&quot;
+        src=&quot;/static/9815bade202e2d50cc2bec85f564fa5b/f058b/on-webpack.png&quot;
+        srcset=&quot;/static/9815bade202e2d50cc2bec85f564fa5b/c26ae/on-webpack.png 158w,
+/static/9815bade202e2d50cc2bec85f564fa5b/6bdcf/on-webpack.png 315w,
+/static/9815bade202e2d50cc2bec85f564fa5b/f058b/on-webpack.png 630w,
+/static/9815bade202e2d50cc2bec85f564fa5b/40601/on-webpack.png 945w,
+/static/9815bade202e2d50cc2bec85f564fa5b/78612/on-webpack.png 1260w,
+/static/9815bade202e2d50cc2bec85f564fa5b/6ee58/on-webpack.png 1640w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;webpack.config.js&lt;/h1&gt;
+&lt;p&gt;매번 명령어를 나열하면서 실행하기엔 비효율적이다. 그렇기 때문에 root위치에 설정 파일을 만들어서 원하는 설정을 자동 지정하도록 처리할 수 있다.&lt;/p&gt;
+&lt;p&gt;상단에서 사용한 webpack 명령어를 webpack.config.js에서 처리하면 다음과 같다. 이제 npx webpack 명령어만 입력하면 된다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre class=&quot;language-jsx&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;모드의 도입&lt;/h1&gt;
+&lt;p&gt;Webpack에는 개발모드와 프로덕트모드가 있다. 우선 두 모드의 차이를 코드로 살펴보자.&lt;/p&gt;
+&lt;p&gt;| &lt;b&gt; production mode &lt;/b&gt;|
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9ccb30f12efc77a99837f4e7de103768/460fa/product-mode.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.91139240506328%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsTAAALEwEAmpwYAAABu0lEQVQ4y5WUa3LjIBCEdZEIxBuBQFh2kvtf7NuCOMl6s7GTH120gOnq0TAznXdHqwnvAyEEvPNEH/EhYP06+KIWpJRfoLRGW3uDKUTP5dzINWGMRmv1JXBZlu/Rz+X7Kpl80BwtU2qlZofRCiEWnp6emOd5oPOfYvJRU1ui7gdHPhCLQcyC+YrOhXj/nge/hylEw3Eu1PMzznmsdxir0UZjnRmrNmrsGWvvp78sTGE1tFMh1YwLlpAsPr5hzR7nLc4bYnL44EfQ/wr0jiF47IUUN2x3IBVqUUghEeLz4uBCfBTpu2JNPhraXtlPz7iw4o3HGnO3uvfOpp7aVhL1ciHur4S1sMUT0XmU6u76RXnj7G3vnmDN5Fooxyt5P9jWSrD9f4kbN59cPhZMdaM+v+BzYztttEsipEbdKnENGGcfpnsrWBJ5r2x7o5wKa94wLuBcQBvz0X4Pn82NYE2UnIlrRGszBK2Lo2f/dve4KFfBcj5Y2wmXMrIHjmcibnr6Fyl3bLhUhmB39W/wj1IOV8Gtj7BY0NoixYxSakwRee3RXzssfUC0ndJeyMeFXBspZdyaWVMeo+0nDv8AGb3i7ora3D4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;production mode&quot;
+        title=&quot;production mode&quot;
+        src=&quot;/static/9ccb30f12efc77a99837f4e7de103768/f058b/product-mode.png&quot;
+        srcset=&quot;/static/9ccb30f12efc77a99837f4e7de103768/c26ae/product-mode.png 158w,
+/static/9ccb30f12efc77a99837f4e7de103768/6bdcf/product-mode.png 315w,
+/static/9ccb30f12efc77a99837f4e7de103768/f058b/product-mode.png 630w,
+/static/9ccb30f12efc77a99837f4e7de103768/40601/product-mode.png 945w,
+/static/9ccb30f12efc77a99837f4e7de103768/78612/product-mode.png 1260w,
+/static/9ccb30f12efc77a99837f4e7de103768/460fa/product-mode.png 1910w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;| &lt;b&gt; development mode &lt;/b&gt;|
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/429a06a69f30a03d43f85d767ed7dc3e/14747/development-mode.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.27848101265823%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsTAAALEwEAmpwYAAABtElEQVQ4y42U25adMAiGfZIxGgLkqO7pRd//xf4u4mGsnXb34lsEjQT4iUMIhLUJainIOSPFhBACKDCYdwIFhMOf5xnTNH2Lcw6DLSxoD0J0wz/8L7z3V4AnwzxPUKUrGxF5wODA/cB3WPaDncZMCEQInjC5PX17+S/suyc9YGCBaICqYt0WtK2BRTB7j/Gbkt4xWLNjYggLPkvFz9cLP9qCLWUUFkQKKIGRReCtgr8IconiiRDj3rsYtWdaDsVjjCi1dj+qwvv5PzJkQaqK0jYsr7qzNSybrQu2zwVtbWhrQqmCIIRUpCMxQBMjN+1rUcZAFKDRFBaMbsTHeODGw//AOI57Bs8yZxPva232Cmiyi/dQT7/Z6Al8651zT9w+Gcd6oKOHNmvF+qeKfFrZbRTBNL/vn1Uy2BVLWZBLQ20VKScEDiBmkA3saft1vEH0xzPb2wNqFqRcoRohltGh7rKundpMlBVtWS5sj5FtIkpByrl/c/WQ+i1xnV6CCfFgvHHuuftXyXr2kBlNpA/0oooquzWaKuzwt4PdRUkMFevjPszMt0tvv6+jj+evqyv7CHQG/AXFb8izyerDVgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;development mode&quot;
+        title=&quot;development mode&quot;
+        src=&quot;/static/429a06a69f30a03d43f85d767ed7dc3e/f058b/development-mode.png&quot;
+        srcset=&quot;/static/429a06a69f30a03d43f85d767ed7dc3e/c26ae/development-mode.png 158w,
+/static/429a06a69f30a03d43f85d767ed7dc3e/6bdcf/development-mode.png 315w,
+/static/429a06a69f30a03d43f85d767ed7dc3e/f058b/development-mode.png 630w,
+/static/429a06a69f30a03d43f85d767ed7dc3e/40601/development-mode.png 945w,
+/static/429a06a69f30a03d43f85d767ed7dc3e/78612/development-mode.png 1260w,
+/static/429a06a69f30a03d43f85d767ed7dc3e/14747/development-mode.png 1914w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;위 코드가 프로덕트 모드, 아래가 개발 모드이다. 한 눈에 봐도 프로덕트 모드는 용량 압축을 위해 최대한 코드를 줄여 알아보기가 힘들다(물론 개발 모드가 쉽다는 말은 아니다 🙃) 각각의 모드마다 개발 모드는 개발자가 웹팩 로그나 결과물을 개발자가 파악하기 용이하고, 프로덕트 모드는 성능 최적화를 위한 파일 압축 등의 빌드 과정이 추가된다.&lt;/p&gt;
+&lt;h2&gt;모드의 구분&lt;/h2&gt;
+&lt;p&gt;모드를 구분하는 방식은 두 가지 정도로 정리 가능하다.&lt;/p&gt;
+&lt;h3&gt;파일 분리&lt;/h3&gt;
+&lt;p&gt;첫번째는 config 파일을 따로 구성하는 것이다. 아래 예시와 같이 각각의 파일 이름을 따로 구성할 수 있으며, 기본 명령어는 webpack.config.js 파일만 번들링하므로 프로덕션 모드를 번들링하려면 —config flag를 이용해 webpack.config.prod.js를 따로 지정해주어야 한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// webpack.config.js&lt;/span&gt;
+module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// webpack.config.prod.js&lt;/span&gt;
+module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;환경변수&lt;/h3&gt;
+&lt;p&gt;환경변수의 조건문으로 구분할수도 있다. 환경변수와 package.json scripts를 조합해서 단축한 명령어로 자동 처리를 할 수 있다. 환경변수처리를 위한 몇가지 조건은 아래와 같다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;객체였던 module.export를 함수로 변경하고 env MODE를 인자로 받는다.&lt;/li&gt;
+&lt;li&gt;인자의 모드에 따라 번들링 파일을 저장할 위치는 지정한다.&lt;/li&gt;
+&lt;li&gt;저장 위치뿐만 아니라 entry 파일이나 앞으로 나올 loader도 따로 지정해줄 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// webpack.config.env.js&lt;/span&gt;
+module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function-variable function&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;MODE&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; outputFileName &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;
+    &lt;span class=&quot;token constant&quot;&gt;MODE&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;production&quot;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;production_[name]_bundle.js&quot;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;development_[name]_bundle.js&quot;&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;dist&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; outputFileName&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token property&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;npx webpack --config webpack.config.env.js --env MODE=production&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;&quot;production&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;npx webpack --config webpack.config.env.js --env MODE=production&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Loader&lt;/h1&gt;
+&lt;p&gt;여전히 해결할 수 있는 몇 가지 문제가 남아있다. 그 중 Loader는 js파일 뿐만 아니라 css, image, url 등을 번들링할 수 있게 지원한다. 그래서 Loader를 Webpack의 꽃이라고 부르기도 한다.&lt;/p&gt;
+&lt;p&gt;Webpack 공식 문서에는 여러가지 Loader를 소개한다. 이 글에서는 예시로 css 파일을 Loader를 이용해 번들링 해보고자 한다.&lt;/p&gt;
+&lt;p&gt;css의 경우 css-loader, style-loader를 통해 config file에서 css 파일을 함께 번들링 할 수 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;//loader&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;//.css파일을 찾는 정규표현식&lt;/span&gt;
+        &lt;span class=&quot;token literal-property property&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token regex&quot;&gt;&lt;span class=&quot;token regex-delimiter&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token regex-source language-regex&quot;&gt;\.css$&lt;/span&gt;&lt;span class=&quot;token regex-delimiter&quot;&gt;/&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;//css-loader를 통해 번들링하고, style-loader를 통해 적용한다&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;//뒤에서부터 실행&lt;/span&gt;
+        &lt;span class=&quot;token literal-property property&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;style-loader&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;css-loader&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Loader를 사용해서 CSS 파일을 함께 번들링 했다. 이제 Network 탭에서는 index_bundle.js만 불러와도 CSS가 적용된 것을 볼 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8feeddbc6f676db46a43f0d742744939/9c701/loader.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 31.645569620253163%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJ0lEQVQY022QXUvDQBBF8/9/ilLb4IMvSt8UtBUExaqVTdNm89Um2SRtYjbhSLaN9MGFy14G5s6Zse7mM6ZPj9zOn5k+3HPz+s545TMRntHYkdjCwxEOfrgliBOCKMbdSGQQItw1jrthKRzWnsQavSwZzRbYnw7XXwL7e21CTKAjGQsP25EIGbDdJexSRZopNtJn7fnIIMIPIxPe16zLhcvFm8uVkIZsCDP/ECg8ApWTKUVelCiVk6QpaZZxOFTsq4r6p6HrOqzJSmK7x+bzNf8ITz4uSvrXdh1N09A0mkZr6rqmqmvjddti9QSDBqLJie4Y2A+RfLiSKIrJ8txQ9irKPdskNev2Pi8KrPPm/zTccBWGBH6AynO0bgyl1pqyLM0p2rY1tV/wMLJ1pl13FgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스크린샷 2022-06-06 13.58.09.png&quot;
+        title=&quot;스크린샷 2022-06-06 13.58.09.png&quot;
+        src=&quot;/static/8feeddbc6f676db46a43f0d742744939/f058b/loader.png&quot;
+        srcset=&quot;/static/8feeddbc6f676db46a43f0d742744939/c26ae/loader.png 158w,
+/static/8feeddbc6f676db46a43f0d742744939/6bdcf/loader.png 315w,
+/static/8feeddbc6f676db46a43f0d742744939/f058b/loader.png 630w,
+/static/8feeddbc6f676db46a43f0d742744939/40601/loader.png 945w,
+/static/8feeddbc6f676db46a43f0d742744939/78612/loader.png 1260w,
+/static/8feeddbc6f676db46a43f0d742744939/9c701/loader.png 1774w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Element 탭을 보자. head의 style에 원하는 CSS 설정이 JavaScript에 의해 삽입된 것을 볼 수 있다. 이제 JavaScript 파일 뿐만 아니라 무수히 많은 다른 파일들을 Loader를 이용해 함께 번들링 할 수 있게 되었다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/57971ac285471ac12912faf105ebf286/9cea8/loader-element.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.632911392405056%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABYklEQVQoz5WS247bIBRF/f9fN6raKtPMeJyJ8QUMBN9iY+xV4ahR+5CMeqR1HgBt4OydjG7ECkWrNUO38FVtkW17SBL8gk0Ng1SMWmBkhzUT12vYCX4mzCPztHAdl6j29MIkbru8o3nPEMcDp6OiPjlUXlLljqpokYUmPw/k+cDFeqydMXZm6Pyuv67bncSMAZG1HL8XHN5yXo6Wl1fLj3PLTzHwLXOkn45TZihlj2h6ajshmwlpJmQ7o/uAHm4ktZvJDvEFmqKxnGrLm1D8Ojs+qp6P2iF0T2kGqsuI0N0u0pgZdZlRvceMK+a67SSsK21usVWJrQp6JfHKEKbt5sB/VhLbYFp0kZMWHWmcW9XSDy2Nbehdzxq2p87+43Jszji0qiml4L1QnKXls5QUdYVTlqmbbpF5KMSdxI8ek2qWGIl1YQuw+I0QE7LGpXXnb8GnX46Hgw/30D4a3FdCfwR/A41TCAMfoJl3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;스크린샷 2022-06-06 13.59.47.png&quot;
+        title=&quot;스크린샷 2022-06-06 13.59.47.png&quot;
+        src=&quot;/static/57971ac285471ac12912faf105ebf286/f058b/loader-element.png&quot;
+        srcset=&quot;/static/57971ac285471ac12912faf105ebf286/c26ae/loader-element.png 158w,
+/static/57971ac285471ac12912faf105ebf286/6bdcf/loader-element.png 315w,
+/static/57971ac285471ac12912faf105ebf286/f058b/loader-element.png 630w,
+/static/57971ac285471ac12912faf105ebf286/40601/loader-element.png 945w,
+/static/57971ac285471ac12912faf105ebf286/78612/loader-element.png 1260w,
+/static/57971ac285471ac12912faf105ebf286/9cea8/loader-element.png 1278w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Output 설정&lt;/h2&gt;
+&lt;p&gt;상황에 따라 Output을 자유롭게 설정할 수도 있다. 예시를 위해 가정하는 상황은 index.js 파일 뿐만 아니라 about.js 파일을 번들링하고, 해당 번들링 파일을 원하는 폴더의 각자 다른 파일 이름으로 저장하는 것이다. 아래 config 코드에서 살펴보자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;//...&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;about&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/about.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;[name]_bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;//...&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;entry를 객체형태로 만들 수 있다. 번들링을 원하는 파일을 기입하고, output에서 파일 이름을 동적으로 할당할 수 있다. 저기서 [name]은 entry에서 설정한 객체 요소의 이름으로 들어가게 된다. 이제 원하는 output 설정을 할 수 있게 되었다. 더 자세한 설정은 &lt;a href=&quot;https://webpack.js.org/configuration/output/&quot;&gt;공식문서 output 탭&lt;/a&gt;에서 확인할 수 있다.&lt;/p&gt;
+&lt;p&gt;| &lt;b&gt; index_bundle.js &lt;/b&gt;|
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8feeddbc6f676db46a43f0d742744939/9c701/loader.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 31.645569620253163%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJ0lEQVQY022QXUvDQBBF8/9/ilLb4IMvSt8UtBUExaqVTdNm89Um2SRtYjbhSLaN9MGFy14G5s6Zse7mM6ZPj9zOn5k+3HPz+s545TMRntHYkdjCwxEOfrgliBOCKMbdSGQQItw1jrthKRzWnsQavSwZzRbYnw7XXwL7e21CTKAjGQsP25EIGbDdJexSRZopNtJn7fnIIMIPIxPe16zLhcvFm8uVkIZsCDP/ECg8ApWTKUVelCiVk6QpaZZxOFTsq4r6p6HrOqzJSmK7x+bzNf8ITz4uSvrXdh1N09A0mkZr6rqmqmvjddti9QSDBqLJie4Y2A+RfLiSKIrJ8txQ9irKPdskNev2Pi8KrPPm/zTccBWGBH6AynO0bgyl1pqyLM0p2rY1tV/wMLJ1pl13FgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;index_bundle.js&quot;
+        title=&quot;index_bundle.js&quot;
+        src=&quot;/static/8feeddbc6f676db46a43f0d742744939/f058b/loader.png&quot;
+        srcset=&quot;/static/8feeddbc6f676db46a43f0d742744939/c26ae/loader.png 158w,
+/static/8feeddbc6f676db46a43f0d742744939/6bdcf/loader.png 315w,
+/static/8feeddbc6f676db46a43f0d742744939/f058b/loader.png 630w,
+/static/8feeddbc6f676db46a43f0d742744939/40601/loader.png 945w,
+/static/8feeddbc6f676db46a43f0d742744939/78612/loader.png 1260w,
+/static/8feeddbc6f676db46a43f0d742744939/9c701/loader.png 1774w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;| &lt;b&gt; about_bundle.js &lt;/b&gt;|
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8eb710d86aaf627071bfddb32ea49205/2ed34/loader-about.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 31.0126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAABEUlEQVQY022QQW+CMBiG+f8/ZLsNveywJd412fS0xCXSyqQUERAoTIH4LO3QLGaHN/36Je+Tp/Ve35fMFgtelitm8znPH2v8bcxERC6+VExFhNgExPpAnObofcr2a8dOaTZySyBDPjcBMtzhPa4ED28BT0HkQBZwBU2kwhcRU6kQcUKaZhzygrw4EkbKJU7SW5RO8Fx5tPlr5eYRaOekrMiOObrMMG1L0zQcy5K2bV3s/ft8wpuMJreyvNpdgb/wtDZwudAPwy3DMHDuOk6nM13f0/c9nj8a+qPRfXwLFop1qCjygrI2VHVNWdXUxnDIcvfU2jRu7/0Hube2fyj1Hh1rV7ImXde505iGsqqcrd39AO7csonQVzaWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;about_bundle.js&quot;
+        title=&quot;about_bundle.js&quot;
+        src=&quot;/static/8eb710d86aaf627071bfddb32ea49205/f058b/loader-about.png&quot;
+        srcset=&quot;/static/8eb710d86aaf627071bfddb32ea49205/c26ae/loader-about.png 158w,
+/static/8eb710d86aaf627071bfddb32ea49205/6bdcf/loader-about.png 315w,
+/static/8eb710d86aaf627071bfddb32ea49205/f058b/loader-about.png 630w,
+/static/8eb710d86aaf627071bfddb32ea49205/40601/loader-about.png 945w,
+/static/8eb710d86aaf627071bfddb32ea49205/78612/loader-about.png 1260w,
+/static/8eb710d86aaf627071bfddb32ea49205/2ed34/loader-about.png 1776w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Plugin 도입&lt;/h2&gt;
+&lt;p&gt;Webpack에는 다양한 방식으로 빌드 프로세스를 사용할 수 있도록 여러 Plugin을 지원한다. Loader보다 훨씬 다양한 Plugin이 존재하고, 상황에 따라 원하는 결과에 따라 여러 Plugin을 조합, 활용이 가능하다.&lt;/p&gt;
+&lt;p&gt;모종의 이유로 HTML 파일을 번들링 파일과 동일한 위치에 만들어야 하는 상황이 생겼다고 가정하자. 이 경우에는 html-webpack-plugin 이라는 Plugin을 도입해서 문제를 해결할 수 있다. 번들링된 JavaScript를 자동으로 HTML에 추가해서 목적 폴더인 public 폴더에 생성해줄 것이다. 아래 코드를 살펴보자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; path &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;path&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; HtmlWebpackPlugin &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;html-webpack-plugin&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;about&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/about.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;public&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;[name]_bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token literal-property property&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token regex&quot;&gt;&lt;span class=&quot;token regex-delimiter&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token regex-source language-regex&quot;&gt;\.css$&lt;/span&gt;&lt;span class=&quot;token regex-delimiter&quot;&gt;/&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token literal-property property&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;style-loader&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;css-loader&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token literal-property property&quot;&gt;plugins&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;HtmlWebpackPlugin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;template&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/index.html&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./index.html&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;chunks&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;index&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;HtmlWebpackPlugin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;template&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/about.html&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;filename&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./about.html&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;token literal-property property&quot;&gt;chunks&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;about&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;template은 번들링할 HTML 파일을 말한다.&lt;/li&gt;
+&lt;li&gt;filename은 말 그대로 생성할 파일 이름이다.&lt;/li&gt;
+&lt;li&gt;chunks는 해당 HTML 파일에서 불러올 entry에 해당하는 JavaScript 파일을 지정하는 것이다. 현 상황에서 chunks가 없다면 HTML 파일에는 index.js와 about.js 두 JavaScript 파일을 둘 다 불러올 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이제 public 폴더에는 JavaScript 파일 뿐만 아니라 두 가지 HTML 파일이 생겼다. 또한 해당 폴더에서는 원하는 JavaScript 파일을 가져오고 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// public/index.js&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;DOCTYPE&lt;/span&gt; html&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;html lang&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;meta charset&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;meta http&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;equiv&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;X-UA-Compatible&quot;&lt;/span&gt; content&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;IE=edge&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;meta name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;viewport&quot;&lt;/span&gt; content&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;width=device-width, initial-scale=1.0&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Document&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;title&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;script defer src&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;index_bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;script&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;head&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Hello&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; World &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;root&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;a href&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;./about.html&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Go to About&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;a&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;body&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;html&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// public/about.js&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;html lang&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;script defer src&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;about_bundle.js&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;script&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;head&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Hello&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; World &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;root&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;a href&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;./index.html&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Go to Index&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;a&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;body&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;html&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;마치며&lt;/h1&gt;
+&lt;p&gt;이 밖에도 Webpack에는 live reload와 hot module replacement를 지원하는 DevServer, 너무 커진 번들링 파일을 쪼개고 필요할 때마다 로딩할 수 있는 Code splitting, Lazy loading 등 다양한 기능을 지원하고 있다. 이 기능들도 필요할 때 적절히 이해하고 적용해야 한다.&lt;/p&gt;
+&lt;p&gt;실제 상황에서는 위 예제들보다 훨씬 복잡하고 다양한 상황을 맞이해야할 것을 알고 있다. 그럼에도 오랫동안 사랑받은 기술의 존재의 의미와 기본적인 동작 방식을 이해하는 것은 응용에 앞서 좀 더 큰 숲의 관점에서 프로세스를 이해할 수 있다는 의미가 있는 것 같다. 너무 어려워보였던 기술을 막상 며칠 간 펼쳐놓고 보니 그리 무서운 것은 아니었다. 앞으로도 이 경험을 토대로 필요에 의해 원하는 것들을 그냥 해보자. 생각보다 어려운 것은 없다!&lt;/p&gt;
+&lt;h3&gt;참고자료&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;https://opentutorials.org/module/4566&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://joshua1988.github.io/webpack-guide/&quot;&gt;https://joshua1988.github.io/webpack-guide/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://webpack.js.org/&quot;&gt;https://webpack.js.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://2021.stateofjs.com/en-US/libraries/build-tools&quot;&gt;https://2021.stateofjs.com/en-US/libraries/build-tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ko.javascript.info/modules-intro&quot;&gt;https://ko.javascript.info/modules-intro&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
