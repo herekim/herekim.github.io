@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Jun 2022 15:28:24 GMT</lastBuildDate><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220606/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Jun 2022 09:02:08 GMT</lastBuildDate><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220606/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -60,30 +60,28 @@
 &lt;p&gt;의도한 결과물은 Hello World 였지만 실제 결과는 World만 나왔다. script 태그로 불러온 두 JavaScript 파일의 변수명이 word로 겹치기 때문이다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 474px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png&quot;
+    href=&quot;/static/eaf448b56b90e3f90a57802720ce3e11/5595f/only-world.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 19.62025316455696%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAn0lEQVQY03WNiQ7CMAxD+/+fCGzA7nVt04ah3TNqEWMIiGTJfklkkWQFyDGUIShjf4hgrENe1jhE55A1vXl8SXBN8+e/JohKNmBmdF2HYRjQ9/2XxnGEtQ5K6eD3XMoGxyiGIQr/4niKkBdlCP80TROMIVS1DH7Pi7JCkmZbiZCyBvMN67pinmcsy/Ihz/yube9wjre7F9eG4Jjhxxc8ABBdM4AHe2p8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 42.405063291139236%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABFElEQVQoz52RT6uCQBTF54P6LQRx48YWulEEg8xNGBKutW2QO0HaCeIyBJGUIg1BLM9jBmwRyXu8H1zumbmH+XMveTweuF6vGIYBlCRJ0Pc908/nE1VV4XK5gPooRVHgk7Ztcb/fmSaHwwGSJEEURSiKAkEQsFgs4Ps+M6iqCo7joOs68/E8j+VyCdu2YZomDMNgWpZldF0HkmUZwjBkm7vdDkEQwHEcuK6L2+2GKIqw3W6x3++x2WzgeR40TcNqtcJ6vYZlWaxG/U3TgGCGcRzZjd94vV6s/g3yzUx797mmeYqJaZ8ePmVS1zXSNEVZljifz+/h0OL0ikn/JUie5zgejzidTojj+D3huS/9Bpnr33/5ATC8S91ptzLAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;스크린샷 2022-05-31 17.48.40.png&quot;
-        title=&quot;스크린샷 2022-05-31 17.48.40.png&quot;
-        src=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png&quot;
-        srcset=&quot;/static/00663012cf83617a9cc26a5ee0d46e2d/c26ae/not-webpack.png 158w,
-/static/00663012cf83617a9cc26a5ee0d46e2d/6bdcf/not-webpack.png 315w,
-/static/00663012cf83617a9cc26a5ee0d46e2d/f058b/not-webpack.png 630w,
-/static/00663012cf83617a9cc26a5ee0d46e2d/40601/not-webpack.png 945w,
-/static/00663012cf83617a9cc26a5ee0d46e2d/1628f/not-webpack.png 1232w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        alt=&quot;only-world.png&quot;
+        title=&quot;only-world.png&quot;
+        src=&quot;/static/eaf448b56b90e3f90a57802720ce3e11/5595f/only-world.png&quot;
+        srcset=&quot;/static/eaf448b56b90e3f90a57802720ce3e11/c26ae/only-world.png 158w,
+/static/eaf448b56b90e3f90a57802720ce3e11/6bdcf/only-world.png 315w,
+/static/eaf448b56b90e3f90a57802720ce3e11/5595f/only-world.png 474w&quot;
+        sizes=&quot;(max-width: 474px) 100vw, 474px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
         decoding=&quot;async&quot;
@@ -383,7 +381,7 @@ module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token property&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;npx webpack --config webpack.config.env.js --env MODE=production&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;&quot;development&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;npx webpack --config webpack.config.env.js --env MODE=development&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
     &lt;span class=&quot;token property&quot;&gt;&quot;production&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;npx webpack --config webpack.config.env.js --env MODE=production&quot;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h1&gt;Loader&lt;/h1&gt;
