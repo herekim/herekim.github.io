@@ -47,7 +47,7 @@ let word = "World"
 
 의도한 결과물은 Hello World 였지만 실제 결과는 World만 나왔다. script 태그로 불러온 두 JavaScript 파일의 변수명이 word로 겹치기 때문이다.
 
-![스크린샷 2022-05-31 17.48.40.png](./not-webpack.png)
+![only-world.png](./only-world.png)
 
 웹에서 동작하는 서비스의 규모가 점점 커지면서 이 변수명 중복 문제를 해결하기 위한 여러 테크닉이 발전했다. 하지만 여전히 근본적인 문제 해결은 불가능했다. 이고잉님의 표현을 빌리자면, 마치 폴더 기능이 없는 파일 시스템과 비슷하다. 그래서 나온 개념이 바로 모듈이다. 최신 브라우저에는 기본적으로 [모듈 기능이 탑재](https://ko.javascript.info/modules-intro)되어 있기도 하다.
 
@@ -246,7 +246,7 @@ module.exports = ({ MODE }) => {
 
 ```json
 "scripts": {
-    "development": "npx webpack --config webpack.config.env.js --env MODE=production",
+    "development": "npx webpack --config webpack.config.env.js --env MODE=development",
     "production": "npx webpack --config webpack.config.env.js --env MODE=production"
   },
 ```
