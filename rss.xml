@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Jun 2022 09:02:08 GMT</lastBuildDate><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220606/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Jun 2022 06:28:40 GMT</lastBuildDate><item><title><![CDATA[당신이 잠든 사이에 (While You Were Sleeping)]]></title><description><![CDATA[당신이 잠든 사이에 (While You Were Sleeping) 199…]]></description><link>https://herekim.github.io/alwayshere/220616/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220616/</guid><pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;당신이 잠든 사이에 (While You Were Sleeping)&lt;/h1&gt;
+&lt;p&gt;1995년 개봉작 &amp;#x3C;당신이 잠든 사이에&gt; 라는 영화가 있습니다. 한 남성이 기차 사고로 혼수 상태에 빠진 사이에 벌어지는 일들을 그린 로맨틱 코미디 영화인데요. 문득 이런 생각이 들었습니다. &lt;strong&gt;“내가 잠든 사이에 누군가 잘 정돈된 개발 지식을 내게 가져다 준다면?”&lt;/strong&gt; 그렇게 스터디를 기획하게 되었습니다. (영화도 꼭 한번 보세요. 꽤 괜찮습니다.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/c5c87/WYWS.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAa62kkpigf/EABsQAQACAgMAAAAAAAAAAAAAAAIBAwASBBEh/9oACAEBAAEFAlYSrNjcl7dESXyerNVn/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPwGjF//EABYRAAMAAAAAAAAAAAAAAAAAABAhMf/aAAgBAgEBPwF0f//EAB4QAQABAwUBAAAAAAAAAAAAAAEAAhEhAxASMUJh/9oACAEBAAY/AgXuUvlw7XsXphzMfJjUZ//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhQVGR/9oACAEBAAE/IaMziUvb3vxgXPJZLZKZF5MLGMGil+T/2gAMAwEAAgADAAAAEDjv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxBU0Q//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EJGCs//EAB0QAAICAwADAAAAAAAAAAAAAAERACExQVFh4fD/2gAIAQEAAT8Q8RRK+zGTJEF09HAdjsDGtkxjEND0bg9KDpUaorR9QrJRgNZDgn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;당신이 잠든 사이에 포스터&quot;
+        title=&quot;당신이 잠든 사이에 포스터&quot;
+        src=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/828fb/WYWS.jpg&quot;
+        srcset=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/ff44c/WYWS.jpg 158w,
+/static/a35c4373c1eacbd0fd002c7ab51a5c2a/a6688/WYWS.jpg 315w,
+/static/a35c4373c1eacbd0fd002c7ab51a5c2a/828fb/WYWS.jpg 630w,
+/static/a35c4373c1eacbd0fd002c7ab51a5c2a/0ede0/WYWS.jpg 945w,
+/static/a35c4373c1eacbd0fd002c7ab51a5c2a/3ac88/WYWS.jpg 1260w,
+/static/a35c4373c1eacbd0fd002c7ab51a5c2a/c5c87/WYWS.jpg 1337w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;당신이 잠든 사이에 포스터&lt;/p&gt;
+&lt;h2&gt;어떻게 운영되는데?&lt;/h2&gt;
+&lt;p&gt;본론부터 들어가자면 스터디의 핵심은 이것입니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;본인이 원하는 주제의 개발 지식을 선정한다.&lt;/li&gt;
+&lt;li&gt;해당 내용을 &lt;strong&gt;학습하고 개인 블로그&lt;/strong&gt;에 올린다.&lt;/li&gt;
+&lt;li&gt;블로그에 올린 내용을 팀원들에게 &lt;strong&gt;소개하고, 설명하고, 토론&lt;/strong&gt;한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;네, 이 세 가지가 전부입니다. 결과적으로 &lt;strong&gt;4주 간 개인 블로그 2개를 업로드하면 다른 개발자가 관심있는 6가지의 순도 높은 개발 지식을 추가로 학습할 수 있는 구조&lt;/strong&gt;가 됩니다. 그 이유는 아래에서 구체적으로 설명드릴 수 있을 것 같아요. (확정은 아닙니다! 언제든 상황에 따라서 유동적으로 변경될 수 있습니다. 😌)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;스터디 인원 4명&lt;/li&gt;
+&lt;li&gt;총 기간 4주&lt;/li&gt;
+&lt;li&gt;2명씩 2개의 그룹으로 분리&lt;/li&gt;
+&lt;li&gt;각 그룹은 격주로 블로그 정리 및 공유
+&lt;ul&gt;
+&lt;li&gt;시작 전
+&lt;ul&gt;
+&lt;li&gt;그룹 나누기&lt;/li&gt;
+&lt;li&gt;그룹 1의 발표할 주제 선정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;1주차
+&lt;ul&gt;
+&lt;li&gt;그룹 1 : 블로그 업로드 및 발표&lt;/li&gt;
+&lt;li&gt;그룹 2 : 2주차에 발표할 주제 선정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2주차
+&lt;ul&gt;
+&lt;li&gt;그룹 1 : 3주차에 발표할 주제 선정&lt;/li&gt;
+&lt;li&gt;그룹 2 : 블로그 업로드 및 발표&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3주차
+&lt;ul&gt;
+&lt;li&gt;그룹 1 : 블로그 업로드 및 발표&lt;/li&gt;
+&lt;li&gt;그룹 2 : 4주차에 발표할 주제 선정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;4주차
+&lt;ul&gt;
+&lt;li&gt;그룹 1 : 없음&lt;/li&gt;
+&lt;li&gt;그룹 2 : 블로그 업로드 및 발표&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;매 주 1회의 미팅에서 2가지 주제에 대한 발표 및 토론&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;이런 분이라면 함께해요!&lt;/h2&gt;
+&lt;p&gt;저는 사내에 사수도 없고, 시니어 개발자도 없고, 심지어 비전공자입니다. 그래서 항상 **“내가 잘하고 있는 게 맞을까?”**에 대한 고민이 컸습니다. 이와 동시에 “다른 개발자들은 어떤 것에 관심이 있고, 어떤 공부들을 하고 있을까” 라는 궁금증이 항상 있었습니다. 그래서 어차피 난 &lt;strong&gt;블로그를 계속 쓸 건데, 이걸 조금 더 효율적인 방법&lt;/strong&gt;으로 사람들과 공유할 수 있는 방법은 없을까, 고민했어요. 저와 같은 고민을 하시는 분들도 좋고요, 더 명료하게 정리하자면 스터디에 함께할 수 있는 조건은 딱 두 가지입니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;개인 블로그를 운영 혹은 운영할 계획이 있는 분&lt;/li&gt;
+&lt;li&gt;자신이 공부한 내용을 사람들에게 전파하는 것을 좋아하는 분&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;프론트엔드 &amp;#x26; 백엔드 상관없고, 연차 상관없습니다. 저도 프론트엔드 1년차예요 ㅎㅎ. 아, 그리고 가장 중요한 것이 남아있네요. 4주 간의 스터디를 통해서 팀원들이 얻을 수 있는 것인데요, 이것도 두 가지입니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;2개의 양질의 개인 기술 블로그 글&lt;/li&gt;
+&lt;li&gt;당신이 잠든 사이에 팀원들이 학습한 6가지 다양한 주제의 개발 지식&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;마치며&lt;/h1&gt;
+&lt;p&gt;저는 처음 이 스터디를 기획하고 너무 괜찮다고 생각했습니다. 하지만 막상 모집글을 쓰려고 하니 나와 같은 고민을 하는 사람이 과연 많을까? 생각이 드네요. 그래도 일단 모집해봅니다! 못 먹어도 한번 고 해봐야죠. 블로그를 쓰고 싶지만 조금 의지력이 부족해서 자꾸만 미루시는 분들, 자신이 쓴 블로그 내용을 다른 개발자들에게 알려주고 싶거나, 해당 주제에 대해서 깊은 토론을 하고 싶으신 분들, 다른 개발자들의 관심사를 탐독하면서 자신이 평소 관심있던 주제를 공부하고 싶으셨던 분들, 아니면 그냥 4주 뭐 짧고 재밌을 것 같은데 한번 해보지 뭐 라고 생각하시는 분들 다 좋습니다. 관심이 있으시다면 같이 한번 해봐요. 🙃&lt;/p&gt;</content:encoded></item><item><title><![CDATA[친구들, 헤쳐모여 !]]></title><description><![CDATA[이 글은 이고잉님의 생활코딩 Webpack 편을 기반으로 학습한 내용입니다.  들어가기에 앞서 여러 채용 공고와 기술 서적에서 webpack의 존재를 확인한 적이 있다. 하지만 webpack…]]></description><link>https://herekim.github.io/alwayshere/220606/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220606/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 이고잉님의 &lt;a href=&quot;https://opentutorials.org/module/4566&quot;&gt;생활코딩 Webpack 편&lt;/a&gt;을 기반으로 학습한 내용입니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
