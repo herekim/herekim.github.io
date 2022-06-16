@@ -1,39 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Jun 2022 07:09:42 GMT</lastBuildDate><item><title><![CDATA[당신이 잠든 사이에 (While You Were Sleeping)]]></title><description><![CDATA[들어가며 199…]]></description><link>https://herekim.github.io/alwayshere/220616/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220616/</guid><pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[개인블로그]]></description><link>https://herekim.github.io/alwayshere</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Jun 2022 07:15:16 GMT</lastBuildDate><item><title><![CDATA[당신이 잠든 사이에 (While You Were Sleeping)]]></title><description><![CDATA[들어가며 199…]]></description><link>https://herekim.github.io/alwayshere/220616/</link><guid isPermaLink="false">https://herekim.github.io/alwayshere/220616/</guid><pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;들어가며&lt;/h1&gt;
 &lt;p&gt;1995년 개봉작 &amp;#x3C;당신이 잠든 사이에&gt; 라는 영화가 있습니다. 한 남성이 기차 사고로 혼수 상태에 빠진 사이에 벌어지는 일들을 그린 로맨틱 코미디 영화인데요. 문득 이런 생각이 들었습니다. &lt;strong&gt;“내가 잠든 사이에 누군가 잘 정돈된 개발 지식을 내게 가져다 준다면?”&lt;/strong&gt; 그렇게 스터디를 기획하게 되었습니다. (영화도 꼭 한번 보세요. 꽤 괜찮습니다.)&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/c5c87/WYWS.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAa62kkpigf/EABsQAQACAgMAAAAAAAAAAAAAAAIBAwASBBEh/9oACAEBAAEFAlYSrNjcl7dESXyerNVn/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPwGjF//EABYRAAMAAAAAAAAAAAAAAAAAABAhMf/aAAgBAgEBPwF0f//EAB4QAQABAwUBAAAAAAAAAAAAAAEAAhEhAxASMUJh/9oACAEBAAY/AgXuUvlw7XsXphzMfJjUZ//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhQVGR/9oACAEBAAE/IaMziUvb3vxgXPJZLZKZF5MLGMGil+T/2gAMAwEAAgADAAAAEDjv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxBU0Q//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EJGCs//EAB0QAAICAwADAAAAAAAAAAAAAAERACExQVFh4fD/2gAIAQEAAT8Q8RRK+zGTJEF09HAdjsDGtkxjEND0bg9KDpUaorR9QrJRgNZDgn//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;당신이 잠든 사이에 포스터&quot;
-        title=&quot;당신이 잠든 사이에 포스터&quot;
-        src=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/828fb/WYWS.jpg&quot;
-        srcset=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/ff44c/WYWS.jpg 158w,
+&lt;figure&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/c5c87/WYWS.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAa62kkpigf/EABsQAQACAgMAAAAAAAAAAAAAAAIBAwASBBEh/9oACAEBAAEFAlYSrNjcl7dESXyerNVn/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPwGjF//EABYRAAMAAAAAAAAAAAAAAAAAABAhMf/aAAgBAgEBPwF0f//EAB4QAQABAwUBAAAAAAAAAAAAAAEAAhEhAxASMUJh/9oACAEBAAY/AgXuUvlw7XsXphzMfJjUZ//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhQVGR/9oACAEBAAE/IaMziUvb3vxgXPJZLZKZF5MLGMGil+T/2gAMAwEAAgADAAAAEDjv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAwEBPxBU0Q//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EJGCs//EAB0QAAICAwADAAAAAAAAAAAAAAERACExQVFh4fD/2gAIAQEAAT8Q8RRK+zGTJEF09HAdjsDGtkxjEND0bg9KDpUaorR9QrJRgNZDgn//2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;wyws poster&quot; title=&quot;wyws poster&quot; src=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/828fb/WYWS.jpg&quot; srcset=&quot;/static/a35c4373c1eacbd0fd002c7ab51a5c2a/ff44c/WYWS.jpg 158w,
 /static/a35c4373c1eacbd0fd002c7ab51a5c2a/a6688/WYWS.jpg 315w,
 /static/a35c4373c1eacbd0fd002c7ab51a5c2a/828fb/WYWS.jpg 630w,
 /static/a35c4373c1eacbd0fd002c7ab51a5c2a/0ede0/WYWS.jpg 945w,
 /static/a35c4373c1eacbd0fd002c7ab51a5c2a/3ac88/WYWS.jpg 1260w,
-/static/a35c4373c1eacbd0fd002c7ab51a5c2a/c5c87/WYWS.jpg 1337w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
+/static/a35c4373c1eacbd0fd002c7ab51a5c2a/c5c87/WYWS.jpg 1337w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;당신이 잠든 사이에 포스터&lt;/p&gt;
+    &lt;/span&gt;
+&lt;figcaption align=&quot;center&quot;&gt;&lt;b&gt;당신이 잠든 사이에 포스터&lt;/b&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h2&gt;어떻게 운영되는데?&lt;/h2&gt;
 &lt;p&gt;본론부터 들어가자면 스터디의 핵심은 이것입니다.&lt;/p&gt;
 &lt;ol&gt;
@@ -65,7 +45,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&quot;center&quot;&gt;시작 전&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;그룹 나누기 &amp;#x26; 1주차에 발표 주제 선정&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;그룹 나누기 &amp;#x26; 1주차에 발표할 주제 선정&lt;/td&gt;
 &lt;td align=&quot;center&quot;&gt;그룹 나누기&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -96,7 +76,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;이런 분이라면 함께해요!&lt;/h2&gt;
-&lt;p&gt;저는 사내에 사수도 없고, 시니어 개발자도 없고, 심지어 비전공자입니다. 그래서 항상 **“내가 잘하고 있는 게 맞을까?”**에 대한 고민이 컸습니다. 이와 동시에 “다른 개발자들은 어떤 것에 관심이 있고, 어떤 공부들을 하고 있을까” 라는 궁금증이 항상 있었습니다. 그래서 어차피 난 &lt;strong&gt;블로그를 계속 쓸 건데, 이걸 조금 더 효율적인 방법&lt;/strong&gt;으로 사람들과 공유할 수 있는 방법은 없을까, 고민했어요. 저와 같은 고민을 하시는 분들도 좋고요, 더 명료하게 정리하자면 스터디에 함께할 수 있는 조건은 딱 두 가지입니다.&lt;/p&gt;
+&lt;p&gt;저는 사내에 사수도 없고, 시니어 개발자도 없고, 심지어 비전공자입니다. 그래서 항상 &lt;strong&gt;“내가 잘하고 있는 게 맞을까?”&lt;/strong&gt; 에 대한 고민이 컸습니다. 이와 동시에 “다른 개발자들은 어떤 것에 관심이 있고, 어떤 공부들을 하고 있을까” 라는 궁금증이 항상 있었습니다. 그래서 어차피 난 &lt;strong&gt;블로그를 계속 쓸 건데, 이걸 조금 더 효율적인 방법&lt;/strong&gt;으로 사람들과 공유할 수 있는 방법은 없을까, 고민했어요. 저와 같은 고민을 하시는 분들도 좋고요, 더 명료하게 정리하자면 스터디에 함께할 수 있는 조건은 딱 두 가지입니다.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;개인 블로그를 운영 혹은 운영할 계획이 있는 분&lt;/li&gt;
 &lt;li&gt;자신이 공부한 내용을 사람들에게 전파하는 것을 좋아하는 분&lt;/li&gt;
