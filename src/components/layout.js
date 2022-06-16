@@ -26,7 +26,6 @@ const Layout = ({ location, title, children }) => {
         <header className="global-header">{header}</header>
         <main>{children}</main>
       </div>
-
       <footer>
         <p className="footer-built">
           © alwayshere Built with
